@@ -1,9 +1,23 @@
 {
-    "user":{
-        "name": "amit",
-        "email": "amitnegiit23@gmail.com",
-        "age": 23,
-        "phone": 9528594371,
-        "address": "kotdwara"
-    }
+    "sofas": [
+        {
+            "id": 1,
+            "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
+            "brand": "Trevi Furniture",
+            "price": {
+                "sell": "₹10,899",
+                "mrp": "₹15,999"
+            },
+            "discount": {
+                "price": "₹5,100",
+                "percent": "(32% off)"
+            },
+            "rating": "4.5",
+            "image": "https://drive.google.com/file/d/1xAE-e5QgK6ZjG4boD5uCLq7EWlRu0XoK/view?usp=sharing",
+            "category": "Sofas",
+            "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
+            "shipping": "Express Shipping in 1 day",
+            "description": ""
+        }
+    ]
 }
