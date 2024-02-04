@@ -1,4 +1,55 @@
 {
+    "shop": [
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_1.jpg",
+            "product": "Sofas"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_26.jpg",
+            "product": "Beds"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_21.jpg",
+            "product": "Dining Sets"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_33.jpg",
+            "product": "Study tables"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_15.jpg",
+            "product": "Centre Tables"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_7.jpg",
+            "product": "Recliners"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_2.jpg",
+            "product": "Sectional Sofas"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_31.jpg",
+            "product": "Wardrobes"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_18.jpg",
+            "product": "Cabinets & Sideboards"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_34.jpg",
+            "product": "Office Furniture"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_14.jpg",
+            "product": "Shoe Racks"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_25.jpg",
+            "product": "Bar Furniture"
+        }
+        
+    ],
     "sofas": [
         {
             "id": 1,
@@ -537,4 +588,5 @@
         }
         
     ]
+
 }
