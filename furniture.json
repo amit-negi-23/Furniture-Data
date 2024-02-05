@@ -1,6 +1,8 @@
-{   "stainRemover": "https://ii1.pepperfry.com/assets/56e33d61-39ae-4461-86e6-e97e63c1b662.jpg",
-    "furnitureCare":"https://ii1.pepperfry.com/assets/6a15786d-67cf-44bc-84ec-ed0aef7761f7.jpg",
-    
+{
+    "takecare": {
+        "stainRemover": "https://ii1.pepperfry.com/assets/56e33d61-39ae-4461-86e6-e97e63c1b662.jpg",
+        "furnitureCare": "https://ii1.pepperfry.com/assets/6a15786d-67cf-44bc-84ec-ed0aef7761f7.jpg"
+    },
     "shop": [
         {
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_1.jpg",
@@ -50,12 +52,10 @@
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_25.jpg",
             "product": "Bar Furniture"
         }
-        
     ],
-
-    "bestSeller":[
+    "bestSeller": [
         {
-            "image":"https://ii1.pepperfry.com/assets/d5b80d1b-0e33-4085-a905-6237822d1b9b.jpg",
+            "image": "https://ii1.pepperfry.com/assets/d5b80d1b-0e33-4085-a905-6237822d1b9b.jpg",
             "product": "Box Storage Beds"
         },
         {
@@ -78,7 +78,6 @@
             "image": "https://ii1.pepperfry.com/assets/ee2b7bc8-1fb1-4a64-bc92-299a02476986.jpg",
             "product": "6 Seater Dining Sets"
         }
-        
     ],
     "sofas": [
         {
@@ -98,9 +97,7 @@
             "category": "Sofas",
             "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
             "shipping": "Express Shipping in 1 day"
-            
         },
-
         {
             "id": 2,
             "title": "Fidel Fabric 2 Seater Sofa In Slate Grey Colour",
@@ -118,9 +115,7 @@
             "category": "Sofas",
             "extraoffer": "Earn 863 Extra Pepperfry Credits (Worth ₹863)",
             "shipping": "Ships in 7 days"
-            
         },
- 
         {
             "id": 3,
             "title": "Bonito Velvet 3 Seater Sofa in Beige Colour",
@@ -138,7 +133,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 836 Extra Pepperfry Credits (Worth ₹836)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 4,
@@ -157,7 +151,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 440 Extra Pepperfry Credits (Worth ₹440)",
             "shipping": "Express Shipping in 1 day"
- 
         },
         {
             "id": 5,
@@ -176,7 +169,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 224 Extra Pepperfry Credits (Worth ₹224)",
             "shipping": "Express Shipping in 1 day"
-       
         },
         {
             "id": 6,
@@ -195,7 +187,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 763 Extra Pepperfry Credits (Worth ₹763)",
             "shipping": "Express Shipping in 1 day"
-  
         },
         {
             "id": 7,
@@ -214,7 +205,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 700 Extra Pepperfry Credits (Worth ₹700)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 8,
@@ -233,7 +223,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 700 Extra Pepperfry Credits (Worth ₹700)",
             "shipping": "Express Shipping in 1 day"
-          
         },
         {
             "id": 9,
@@ -252,7 +241,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 688 Extra Pepperfry Credits (Worth ₹688)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 10,
@@ -271,7 +259,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 1,075 Extra Pepperfry Credits (Worth ₹1,075)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 11,
@@ -290,7 +277,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 12,
@@ -309,9 +295,7 @@
             "category": "Sofas",
             "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
             "shipping": "Express Shipping in 1 day"
-            
         },
-        
         {
             "id": 13,
             "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
@@ -329,7 +313,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 14,
@@ -348,7 +331,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 763 Extra Pepperfry Credits (Worth ₹763)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 15,
@@ -367,7 +349,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 1,013 Extra Pepperfry Credits (Worth ₹1,013)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 16,
@@ -386,7 +367,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 538 Extra Pepperfry Credits (Worth ₹538))",
             "shipping": "Express Shipping in 1 day"
-    
         },
         {
             "id": 17,
@@ -405,7 +385,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 900 Extra Pepperfry Credits (Worth ₹900)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 18,
@@ -424,7 +403,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
             "shipping": "Express Shipping in 1 day"
-       
         },
         {
             "id": 19,
@@ -443,7 +421,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 135 Extra Pepperfry Credits (Worth ₹135)",
             "shipping": "Express Shipping in 1 day"
-        
         },
         {
             "id": 20,
@@ -462,7 +439,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 376 Extra Pepperfry Credits (Worth ₹376)",
             "shipping": "Express Shipping in 1 day"
-          
         },
         {
             "id": 21,
@@ -481,7 +457,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 316 Extra Pepperfry Credits (Worth ₹316)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 22,
@@ -500,7 +475,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 650 Extra Pepperfry Credits (Worth ₹650)",
             "shipping": "Express Shipping in 1 day"
-          
         },
         {
             "id": 23,
@@ -519,7 +493,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 224 Extra Pepperfry Credits (Worth ₹224)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 24,
@@ -538,7 +511,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 25,
@@ -557,7 +529,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 1,100 Extra Pepperfry Credits (Worth ₹1,100)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 26,
@@ -576,7 +547,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 424 Extra Pepperfry Credits (Worth ₹424)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 27,
@@ -595,7 +565,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 28,
@@ -614,9 +583,6 @@
             "category": "Sofas",
             "extraoffer": "Earn 244 Extra Pepperfry Credits (Worth ₹244)",
             "shipping": "Express Shipping in 1 day"
-           
         }
-        
     ]
-
 }
