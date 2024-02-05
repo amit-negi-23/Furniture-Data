@@ -1609,22 +1609,508 @@
     "studyTables":[
         {
             "id": 1,
-            "title": "",
-            "brand": "",
+            "title": "Troy Writing Table in White & Oak Finish",
+            "brand": "A GLOBIA CREATIONS",
             "price": {
-                "sell": "",
-                "mrp": ""
+                "sell": "₹8,596 ",
+                "mrp": "₹10,896"
             },
             "discount": {
-                "price": "",
-                "percent": ""
+                "price": "₹2,300 ",
+                "percent": "(21% off)"
             },
             "rating": "4.5",
-            "image": "",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/t/r/494x544/troy-writing-table-by-a-globia-creations-troy-writing-table-by-a-globia-creations-ztjbwy.jpg",
             "category": "studyTable",
-            "extraoffer": "",
+            "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 2,
+            "title": " Melania Writing Table In Natural Walnut Colour",
+            "brand": "Casacraft from Pepperfry",
+            "price": {
+                "sell": "₹8,999 ",
+                "mrp": "₹12,999"
+            },
+            "discount": {
+                "price": "₹4,000",
+                "percent": "(31% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/m/e/494x544/melania-study-table-in-natural-walnut-colour-by-casacraft-melania-study-table-in-natural-walnut-colo-cfio7n.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 225 Extra Pepperfry Credits (Worth ₹225)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 3,
+            "title": "Kennewick Sheesham Wood Portable Table in Scratch Resistant Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹2,999 ",
+                "mrp": "₹4,999"
+            },
+            "discount": {
+                "price": "₹2,000 ",
+                "percent": "(40% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/k/e/494x544/kennewick-sheesham-wood-portable-laptop-table-in-provincial-teak-finish-by-woodsworth-kennewick-shee-ewkus4.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 75 Extra Pepperfry Credits (Worth ₹75)",
             "shipping": ""
         },
+        {
+            "id": 4,
+            "title": "Claire Sheesham Wood Writing Table In Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹13,499 ",
+                "mrp": "₹18,999"
+            },
+            "discount": {
+                "price": " ₹5,500",
+                "percent": "(29% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/c/l/494x544/claire-sheesham-wood-study-table-in-provincial-teak-finish-by-woodsworth-claire-sheesham-wood-study--zpoelh.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 338 Extra Pepperfry Credits (Worth ₹338)",
+            "shipping": ""
+        },
+        {
+            "id": 5,
+            "title": "Jois Solid Wood Portable Laptop Table with Compartment in Honey Oak Finish by Woodsworth from Pepperfry",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹3,499 ",
+                "mrp": "₹4,999"
+            },
+            "discount": {
+                "price": "₹1,500",
+                "percent": "(30% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/j/o/494x544/jois-solid-wood-portable-laptop-table-with-compartment-in-honey-oak-finish-by-woodsworth-from-pepper-piunup.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 88 Extra Pepperfry Credits (Worth ₹88)",
+            "shipping": ""
+        },
+        {
+            "id": 6,
+            "title": " Troy Writing Table in Choco Walnut Finish",
+            "brand": "A GLOBIA CREATIONS",
+            "price": {
+                "sell": "₹8,596 ",
+                "mrp": "₹10,896"
+            },
+            "discount": {
+                "price": "₹2,300",
+                "percent": "(21% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/t/r/494x544/troy-writing-table-in-choco-walnut-colour-by-a-globia-creations-troy-writing-table-in-choco-walnut-c-kgnvea.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 7,
+            "title": "Claire Sheesham Wood Writing Table in Scratch Resistant Honey Oak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹13,499 ",
+                "mrp": "₹18,999"
+            },
+            "discount": {
+                "price": " ₹5,500 ",
+                "percent": "(29% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/c/l/494x544/claire-sheesham-wood-writing-table-in-honey-oak-finish-claire-sheesham-wood-writing-table-in-honey-o-xviqsu.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 338 Extra Pepperfry Credits (Worth ₹338)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 8,
+            "title": "Codrington Sheesham Wood Writing Table In Scratch Resistant Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹15,999",
+                "mrp": "₹20,999"
+            },
+            "discount": {
+                "price": "₹5,000",
+                "percent": "(24% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/c/o/494x544/codrington-sheesham-wood-study-table-in-provincial-teak-finish-by-woodsworth-codrington-sheesham-woo-hk5ryb.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 400 Extra Pepperfry Credits (Worth ₹400)",
+            "shipping": ""
+        },
+        {
+            "id": 9,
+            "title": " Yuko Writing Table in Columbia Walnut Finish",
+            "brand": "Mintwud from Pepperfry",
+            "price": {
+                "sell": "₹7,399",
+                "mrp": "₹9,599"
+            },
+            "discount": {
+                "price": "₹2,200",
+                "percent": "(23% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/y/u/494x544/yuko-study-table-with-two-drawers-in-columbia-walnut-finish-by-mintwud-yuko-study-table-with-two-dra-b73hyx.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 185 Extra Pepperfry Credits (Worth ₹185)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 10,
+            "title": "Enkel Sheesham Wood Writing Table in Scratch Resistant Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹12,499",
+                "mrp": "₹16,999"
+            },
+            "discount": {
+                "price": "₹4,500",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/e/n/494x544/enkel-sheesham-wood-writing-table-in-provincial-teak-finish-by-woodsworth-enkel-sheesham-wood-writin-thm6tl.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 313 Extra Pepperfry Credits (Worth ₹313)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 11,
+            "title": "Jirin Writing Table in Rainwood Finish With Lock",
+            "brand": "Mintwud from Pepperfry",
+            "price": {
+                "sell": "₹4,799",
+                "mrp": "₹6,499"
+            },
+            "discount": {
+                "price": "₹1,700",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/j/i/494x544/jirin-writing-table-in-rainwood-colour-jirin-writing-table-in-rainwood-colour-sj9b9x.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 128 Extra Pepperfry Credits (Worth ₹128)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 12,
+            "title": "Zurndorf Sheesham Wood Writing Table in Scratch Resistant Honey Oak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹19,999",
+                "mrp": "₹28,999"
+            },
+            "discount": {
+                "price": "₹9,000",
+                "percent": "(31% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/z/y/494x544/zyva-study-table-in-honey-oak-finish-by-woodsworth-zyva-study-table-in-honey-oak-finish-by-woodswort-ixe21d.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 500 Extra Pepperfry Credits (Worth ₹500)",
+            "shipping": ""
+        },
+        {
+            "id": 13,
+            "title": "Amigo Sheesham Wood Writing Table in Scratch Resistant Honey Oak Finish",
+            "brand": "Mudramark from Pepperfry",
+            "price": {
+                "sell": "₹21,999",
+                "mrp": "₹29,999"
+            },
+            "discount": {
+                "price": "₹8,000",
+                "percent": "(27% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/m/494x544/amigo-sheesham-wood-writing-table-in-honey-oak-finish-amigo-sheesham-wood-writing-table-in-honey-oak-lvo0pv.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 550 Extra Pepperfry Credits (Worth ₹550)",
+            "shipping": ""
+        },
+        {
+            "id": 14,
+            "title": " Claire Sheesham Wood Writing Table In Rustic Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹13,499",
+                "mrp": "₹18,999"
+            },
+            "discount": {
+                "price": "₹5,500",
+                "percent": "(29% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/c/l/494x544/claire-sheesham-wood-study-table-in-warm-walnut-finish-by-woodsworth-claire-sheesham-wood-study-tabl-b7jkgw.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 338 Extra Pepperfry Credits (Worth ₹338)",
+            "shipping": ""
+        },
+        {
+            "id": 15,
+            "title": "Kelty Sheesham Wood Writing Table In Scratch Resistant Honey Oak Finish With Drawers",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹22,999",
+                "mrp": "₹29,999"
+            },
+            "discount": {
+                "price": "₹7,000",
+                "percent": "(23% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/k/e/494x544/kelty-sheesham-wood-study-table-in-honey-oak-finish-by-woodsworth-kelty-sheesham-wood-study-table-in-cvcmw6.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 575 Extra Pepperfry Credits (Worth ₹575)",
+            "shipping": ""
+        },
+        {
+            "id": 16,
+            "title": "Betsu Hutch Desk in Cappuccino Finish",
+            "brand": "Mintwud from Pepperfry",
+            "price": {
+                "sell": "₹4,999 ",
+                "mrp": "₹7,499"
+            },
+            "discount": {
+                "price": "₹2,500",
+                "percent": "(33% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/b/e/494x544/betsu-hutch-desk-in-light-cappuccino-colour-betsu-hutch-desk-in-light-cappuccino-colour-lrn1bb.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 134 Extra Pepperfry Credits (Worth ₹134)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 17,
+            "title": "Bickington Sheesham Wood Writing Table In Honey Oak Finish",
+            "brand": "Amberville from Pepperfry",
+            "price": {
+                "sell": "₹23,499 ",
+                "mrp": "₹31,999"
+            },
+            "discount": {
+                "price": "₹8,500",
+                "percent": "(27% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/i/s/494x544/isola-solid-wood-study-table-in-honey-oak-finish-by-amberville-isola-solid-wood-study-table-in-honey-sugu9j.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 588 Extra Pepperfry Credits (Worth ₹588)",
+            "shipping": ""
+        },
+        {
+            "id": 18,
+            "title": " Antonio Solid Wood Writing Table In Distress Finish",
+            "brand": "Bohemiana from Pepperfry",
+            "price": {
+                "sell": "₹16,999 ",
+                "mrp": "₹21,999"
+            },
+            "discount": {
+                "price": "₹5,000",
+                "percent": " (23% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/n/494x544/antonio-solid-wood-study-table-in-distress-finish-by-bohemiana-antonio-solid-wood-study-table-in-dis-svc1iu.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 425 Extra Pepperfry Credits (Worth ₹425)",
+            "shipping": ""
+        },
+        {
+            "id": 19,
+            "title": "Zaragoza Solid Wood Writing Table In Rustic Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹33,999 ",
+                "mrp": "₹42,999"
+            },
+            "discount": {
+                "price": "₹9,000",
+                "percent": "(21% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/w/a/494x544/warlick-solid-wood-desk-table-in-rustic-teak-finish-by-woodsworth-warlick-solid-wood-desk-table-in-r-n5asqr.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 850 Extra Pepperfry Credits (Worth ₹850)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 20,
+            "title": "Oriel Sheesham Wood Writing Table In Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹29,499 ",
+                "mrp": "₹39,999"
+            },
+            "discount": {
+                "price": "₹10,500 ",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/o/r/494x544/oriel-sheesham-wood-writing-table-in-provincial-teak-finish-oriel-sheesham-wood-writing-table-in-pro-rwbfm3.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 738 Extra Pepperfry Credits (Worth ₹738)",
+            "shipping": ""
+        },
+        {
+            "id": 21,
+            "title": "Falan Sheesham Wood Writing Table In Scratch Resistant Provincial Teak Finish",
+            "brand": "Mudramark from Pepperfry",
+            "price": {
+                "sell": "₹19,999 ",
+                "mrp": "₹26,999"
+            },
+            "discount": {
+                "price": "₹7,000 ",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/m/o/494x544/modo-sheesham-wood-study-table-in-provincial-teak-finish-by-mudramark-modo-sheesham-wood-study-table-y1b2bz.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 500 Extra Pepperfry Credits (Worth ₹500)",
+            "shipping": ""
+        },
+        {
+            "id": 22,
+            "title": " Oriel Sheesham Wood Writing Table In Dark Rustic Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹29,499 ",
+                "mrp": "₹39,999"
+            },
+            "discount": {
+                "price": "₹10,500",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/o/r/494x544/oriel-sheesham-wood-writing-table-in-rustic-teak-finish-by-woodsworth-oriel-sheesham-wood-writing-ta-769sqf.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 738 Extra Pepperfry Credits (Worth ₹738)d",
+            "shipping": ""
+        },
+        {
+            "id": 23,
+            "title": "Enna Sheesham Wood Writing Table In Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹15,999 ",
+                "mrp": "₹20,999"
+            },
+            "discount": {
+                "price": "₹5,000 ",
+                "percent": "(24% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/d/e/494x544/devito-solid-wood-writing-table-in-provincial-teak-finish-by-woodsworth-devito-solid-wood-writing-ta-eq00ad.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 400 Extra Pepperfry Credits (Worth ₹400)",
+            "shipping": ""
+        },
+        {
+            "id": 24,
+            "title": "Lisbon Sheesham Wood Writing Table In White On Scratch Resistant Rustic Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹22,499",
+                "mrp": "₹29,999"
+            },
+            "discount": {
+                "price": "₹7,500 ",
+                "percent": "(25% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/f/u/494x544/futura-solid-wood-study-table-in-white-on-rustic-teak-finish-by-woodsworth-futura-solid-wood-study-t-ov72xy.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 563 Extra Pepperfry Credits (Worth ₹563)",
+            "shipping": ""
+        },
+        {
+            "id": 25,
+            "title": "Brighton Sheesham Wood Writing Table In Honey Oak Finish",
+            "brand": "Amberville from Pepperfry",
+            "price": {
+                "sell": "₹22,499",
+                "mrp": "₹30,999"
+            },
+            "discount": {
+                "price": "₹8,500",
+                "percent": "(27% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/b/r/494x544/brighton-sheesham-wood-writing-table-in-honey-oak-finish-brighton-sheesham-wood-writing-table-in-hon-sxftdu.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 563 Extra Pepperfry Credits (Worth ₹563)",
+            "shipping": ""
+        },
+        {
+            "id": 26,
+            "title": "Writing Table in Lorraine Walnut And Silver Grey Finish",
+            "brand": "Spacewood Office Solutions",
+            "price": {
+                "sell": "₹8,443 ",
+                "mrp": "₹10,107"
+            },
+            "discount": {
+                "price": "₹1,664 ",
+                "percent": "(16% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/w/r/494x544/writing-table-in-lorraine-walnut-and-silver-grey-finish-writing-table-in-lorraine-walnut-and-silver--tgxhy9.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 199 Extra Pepperfry Credits (Worth ₹199)",
+            "shipping": ""
+        },
+        {
+            "id": 27,
+            "title": "Oriel Sheesham Wood Writing Table In Warm Chestnut Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹29,499 ",
+                "mrp": "₹39,999"
+            },
+            "discount": {
+                "price": "₹10,500",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/o/r/494x544/oriel-solid-wood-writing-table-in-warm-chestnut-finish-by-woodsworth-oriel-solid-wood-writing-table--l5h3t1.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 738 Extra Pepperfry Credits (Worth ₹738)",
+            "shipping": ""
+        },
+        {
+            "id": 28,
+            "title": "Avellino Sheesham Wood Writing Table in Scratch Resistant Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹28,499",
+                "mrp": "₹37,999"
+            },
+            "discount": {
+                "price": " ₹9,500 ",
+                "percent": "(25% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/t/494x544/attie-sheesham-wood-study-table-in-provincial-teak-finish-by-woodsworth-attie-sheesham-wood-study-ta-nqvxyc.jpg",
+            "category": "studyTable",
+            "extraoffer": "Earn 713 Extra Pepperfry Credits (Worth ₹713)",
+            "shipping": "Express Shipping in 1 day"
+        }
         
     ],
     "centreTables":[],
