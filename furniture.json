@@ -584,5 +584,519 @@
             "extraoffer": "Earn 244 Extra Pepperfry Credits (Worth ₹244)",
             "shipping": "Express Shipping in 1 day"
         }
+    ],
+    "beds": [
+        {
+            "id": 1,
+            "title": "Takeo Single Bed in Wenge Finish",
+            "brand": "Mintwud from Pepperfry",
+            "price": {
+                "sell": "₹6,799",
+                "mrp": "₹12,799"
+            },
+            "discount": {
+                "price": "₹6,000",
+                "percent": "(47% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/t/a/494x544/takeo-single-bed-in-walnut-finish---mintwud-by-pepperfry-takeo-single-bed-in-walnut-finish---mintwud-ufbdty.jpg",
+            "category": "beds",
+            "extraoffer": "",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 2,
+            "title": "Sheesham Wood King Size Bed in Honey Brown Finish",
+            "brand": "Sleepyhead",
+            "price": {
+                "sell": "₹24,699",
+                "mrp": "₹32,499"
+            },
+            "discount": {
+                "price": "₹7,800",
+                "percent": "(24% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/b/e/494x544/bed-g-king-size-bed-in-honey-brown-colour-by-sleepyhead-bed-g-king-size-bed-in-honey-brown-colour-by-zzai79.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 494 Extra Pepperfry Credits (Worth ₹494)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 3,
+            "title": "Alpha Sheesham Wood King Size Bed With Box Storage in Light Honey Finish",
+            "brand": "",
+            "price": {
+                "sell": "₹33,999 ",
+                "mrp": "₹59,800"
+            },
+            "discount": {
+                "price": "₹25,801 ",
+                "percent": "(43% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alpha-sheesham-wood-king-size-bed-with-box-storage-in-light-honey-finish-alpha-sheesham-wood-king-si-psdiem.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 680 Extra Pepperfry Credits (Worth ₹680)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 4,
+            "title": "Yuudai Queen Size Bed in Walnut Finish",
+            "brand": "Valuewud from Pepperfry",
+            "price": {
+                "sell": "₹7,199 ",
+                "mrp": "₹13,599"
+            },
+            "discount": {
+                "price": "₹6,400",
+                "percent": "(47% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/y/u/494x544/yuudai-queen-size-bed-in-walnut-finish-by-valuewud-yuudai-queen-size-bed-in-walnut-finish-by-valuewu-zla9uj.jpg",
+            "category": "beds",
+            "extraoffer": "",
+            "shipping": "Express Shipping in 1 day"
+           
+        },
+        {
+            "id": 5,
+            "title": "Sheesham Wood Queen Size Bed in Honey Brown Finish",
+            "brand": "Sleepyhead",
+            "price": {
+                "sell": "₹21,299 ",
+                "mrp": "₹27,999"
+            },
+            "discount": {
+                "price": "₹6,700",
+                "percent": "(24% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/b/e/494x544/bed-g-queen-size-bed-in-honey-brown-colour-by-sleepyhead-bed-g-queen-size-bed-in-honey-brown-colour--hislxw.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 426 Extra Pepperfry Credits (Worth ₹426)",
+            "shipping": ""
+     
+        },
+        {
+            "id": 6,
+            "title": "Marbito Queen Size Bed in White Finish with Box Storage",
+            "brand": "@home",
+            "price": {
+                "sell": "₹17,367",
+                "mrp": "₹43,900"
+            },
+            "discount": {
+                "price": "₹26,533",
+                "percent": "(60% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marbito-queen-size-bed-in-white-finish-with-box-storage-marbito-queen-size-bed-in-white-finish-with--h1imyy.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 348 Extra Pepperfry Credits (Worth ₹348)",
+            "shipping": "Express Shipping in 1 day"
+        },
+
+        {
+            "id": 7,
+            "title": "Pluto Sheesham Wood Queen Size Bed in Dark Brown Colour with Box Storage",
+            "brand": "Wakeup India",
+            "price": {
+                "sell": "₹32,999 ",
+                "mrp": "₹61,805"
+            },
+            "discount": {
+                "price": "₹28,806",
+                "percent": "(47% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/p/l/494x544/pluto-sheesham-wood-queen-size-bed-with-box-storage-in-dark-brown-colour-pluto-sheesham-wood-queen-s-vlzg4s.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 660 Extra Pepperfry Credits (Worth ₹660)",
+            "shipping": "Express Shipping in 1 day"
+           
+        },
+        {
+            "id": 8,
+            "title": "Alpha Sheesham Wood Queen Size Bed in Light Honey Finish With Box Storage",
+            "brand": "Wakeup India",
+            "price": {
+                "sell": "₹32,999 ",
+                "mrp": "₹57,433"
+            },
+            "discount": {
+                "price": "₹24,434 ",
+                "percent": "(43% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alpha-sheesham-wood-queen-size-bed-with-box-storage-in-light-honey-finish-alpha-sheesham-wood-queen--mlrssz.jpg",
+            "category": "beds",
+            "extraoffer": "",
+            "shipping": "Express Shipping in 1 day"
+        },
+
+        {
+            "id": 9,
+            "title": "Maltein Queen Size Bed in Wenge & White Finish with Box Storage",
+            "brand": "",
+            "price": {
+                "sell": "₹16,499",
+                "mrp": "₹27,149"
+            },
+            "discount": {
+                "price": "₹10,650",
+                "percent": "(39% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/maltein-queen-size-bed-in-wenge---white-finish-with-box-storage-maltein-queen-size-bed-in-wenge---wh-ryqpfo.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 330 Extra Pepperfry Credits (Worth ₹330)",
+            "shipping": "Express Shipping in 1 day"
+           
+        },
+        {
+            "id": 10,
+            "title": "Arcadia Sheesham Wood Queen Size Bed in Brown Colour with Box Storage",
+            "brand": "Wakeup India",
+            "price": {
+                "sell": "₹39,380",
+                "mrp": "₹57,219"
+            },
+            "discount": {
+                "price": "₹17,839",
+                "percent": "(31% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/r/494x544/arcadia-sheesham-wood-queen-size-bed-with-box-storage-in-brown-colour-arcadia-sheesham-wood-queen-si-ebs2te.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 788 Extra Pepperfry Credits (Worth ₹788)",
+            "shipping": "Express Shipping in 1 day"
+          
+        },
+        {
+            "id": 11,
+            "title": "Yumako Queen Size Bed in Walnut Finish",
+            "brand": "Valuewud from Pepperfry",
+            "price": {
+                "sell": "₹7,499 ",
+                "mrp": "₹14,099"
+            },
+            "discount": {
+                "price": "₹6,600",
+                "percent": "(47% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/y/u/494x544/yumako-queen-size-bed-in-walnut-finish-by-valuewud-yumako-queen-size-bed-in-walnut-finish-by-valuewu-g0joea.jpg",
+            "category": "beds",
+            "extraoffer": "",
+            "shipping": "Express Shipping in 1 day"
+           
+        },
+        {
+            "id": 12,
+            "title": "Arthur Queen Size Bed in Walnut Finish",
+            "brand": "Nilkamal",
+            "price": {
+                "sell": "₹11,721 ",
+                "mrp": "₹21,000"
+            },
+            "discount": {
+                "price": "₹9,279",
+                "percent": "(44% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/r/494x544/arthur-queen-size-bed-in-walnut-finish-by-nilkamal-arthur-queen-size-bed-in-walnut-finish-by-nilkama-skbglh.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 235 Extra Pepperfry Credits (Worth ₹235)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 13,
+            "title": "Takai Queen Size Bed in Wenge Finish",
+            "brand": "Mintwud from Pepperfry",
+            "price": {
+                "sell": "₹12,299 ",
+                "mrp": "₹16,899"
+            },
+            "discount": {
+                "price": "₹4,600",
+                "percent": "(27% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/t/a/494x544/takai-queen-size-bed-in-wenge-finish-by-mintwud-takai-queen-size-bed-in-wenge-finish-by-mintwud-wqhmtv.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 259 Extra Pepperfry Credits (Worth ₹259)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 14,
+            "title": "Jacklin Fabric King Size Bed in Cream Colour",
+            "brand": "",
+            "price": {
+                "sell": "₹39,780",
+                "mrp": "₹61,200"
+            },
+            "discount": {
+                "price": "₹21,420",
+                "percent": "(35% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/j/a/494x544/jacklin-king-size-bed-in-cream-colour-by-durian-jacklin-king-size-bed-in-cream-colour-by-durian-dalq6a.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 796 Extra Pepperfry Credits (Worth ₹796)",
+            "shipping": ""
+        },
+        {
+            "id": 15,
+            "title": "Roll-Away Metal Folding Bed in Black Colour with Mattress",
+            "brand": "Springtek",
+            "price": {
+                "sell": "₹13,049",
+                "mrp": "₹21,000"
+            },
+            "discount": {
+                "price": "₹7,951",
+                "percent": "(38% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/r/o/494x544/roll-away-folding-space-saving-bed-with-free-6-inch-foam-mattress-by-springtek-roll-away-folding-spa-diy3pe.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 261 Extra Pepperfry Credits (Worth ₹261)",
+            "shipping": ""
+        },
+        {
+            "id": 16,
+            "title": "Pollo Single Bed In Walnut Finish",
+            "brand": "bluewud",
+            "price": {
+                "sell": "₹10,999",
+                "mrp": "₹12,599"
+            },
+            "discount": {
+                "price": "₹1,600",
+                "percent": "(13% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/p/o/494x544/pollo-bed-in-walnut--finish-pollo-bed-in-walnut--finish-ea02uw.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 220 Extra Pepperfry Credits (Worth ₹220)",
+            "shipping": ""
+        },
+        {
+            "id": 17,
+            "title": "Kosmo Carnival King Size Bed in Sheesham Finish",
+            "brand": "Spacewood",
+            "price": {
+                "sell": "₹16,363 ",
+                "mrp": "₹37,771"
+            },
+            "discount": {
+                "price": "₹21,408",
+                "percent": "(57% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kosmo-carnival-king-size-bed-in-sheesham-finish-kosmo-carnival-king-size-bed-in-sheesham-finish-neodet.jpg",
+            "category": "beds",
+            "extraoffer": "",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 18,
+            "title": "Pluto Sheesham Wood King Size Bed in Dark Brown Colour with Box Storage",
+            "brand": "Wakeup India",
+            "price": {
+                "sell": "₹32,999",
+                "mrp": "₹63,638"
+            },
+            "discount": {
+                "price": "₹30,639",
+                "percent": "(48% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/p/l/494x544/pluto-sheesham-wood-king-size-bed-with-box-storage-in-dark-brown-colour-pluto-sheesham-wood-king-siz-bbavcs.jpg",
+            "category": "beds",
+            "extraoffer": "",
+            "shipping": ""
+        },
+        {
+            "id": 19,
+            "title": "Taurus Queen Size Bed In Columbian Walnut Colour With Box Storage",
+            "brand": "Wakefit",
+            "price": {
+                "sell": "₹14,774",
+                "mrp": "₹19,700"
+            },
+            "discount": {
+                "price": "₹4,926 ",
+                "percent": "(25% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/t/a/494x544/taurus-upholstered-queen-size-bed-in-columbian-walnut-colour-with-box-storage-taurus-upholstered-que-gkzse4.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 296 Extra Pepperfry Credits (Worth ₹296)",
+            "shipping": ""
+        },
+        {
+            "id": 20,
+            "title": "Arcadia Sheesham Wood King Size Bed in Brown Colour with Box Storage",
+            "brand": "Wakeup India",
+            "price": {
+                "sell": "₹39,860 ",
+                "mrp": "₹59,516"
+            },
+            "discount": {
+                "price": "₹19,656",
+                "percent": "(33% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/s/h/494x544/sheesham-wood-king-size-bed-with-box-storage-in-brown-colour-sheesham-wood-king-size-bed-with-box-st-v3vmsf.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 798 Extra Pepperfry Credits (Worth ₹798)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 21,
+            "title": "Striker Metal Single Bed in Black Finish",
+            "brand": "Doctor Dreams - Nilkamal",
+            "price": {
+                "sell": "₹7,499 ",
+                "mrp": "₹15,999"
+            },
+            "discount": {
+                "price": "₹8,500 ",
+                "percent": "(53% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/striker-metal-single-bed-in-black-finish-striker-metal-single-bed-in-black-finish-1t2zhh.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 150 Extra Pepperfry Credits (Worth ₹150)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 22,
+            "title": "Grace Single Bed in Walnut & Wenge Finish",
+            "brand": "Crystal Furnitech",
+            "price": {
+                "sell": "₹11,003 ",
+                "mrp": "₹17,999"
+            },
+            "discount": {
+                "price": " ₹6,996",
+                "percent": "(39% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/g/r/494x544/grace-single-bed-in-walnut-and-wenge-colour-by-crystal-furnitech-grace-single-bed-in-walnut-and-weng-cg4lj7.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 259 Extra Pepperfry Credits (Worth ₹259)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 23,
+            "title": "Addison Single Size Bed in Classic Walnut Finish with Box Storage",
+            "brand": "@home",
+            "price": {
+                "sell": "₹9,449",
+                "mrp": "₹19,900"
+            },
+            "discount": {
+                "price": "₹10,451",
+                "percent": "(53% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/d/494x544/addison-single-bed-in-classic-walnut-finish-with-box-storage-addison-single-bed-in-classic-walnut-fi-malz7i.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 197 Extra Pepperfry Credits (Worth ₹197)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 24,
+            "title": "Marbito King Size Bed in White Finish with Box Storage",
+            "brand": "@home",
+            "price": {
+                "sell": "₹20,429 ",
+                "mrp": "₹48,900"
+            },
+            "discount": {
+                "price": "₹28,471 ",
+                "percent": "(58% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marbito-king-size-bed-in-white-finish-with-box-storage-marbito-king-size-bed-in-white-finish-with-bo-l3n1jg.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 409 Extra Pepperfry Credits (Worth ₹409)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 25,
+            "title": "Kosmo Carnival Queen Size Bed in Natural Wenge Finish",
+            "brand": "Spacewood",
+            "price": {
+                "sell": "₹15,448",
+                "mrp": "₹28,580"
+            },
+            "discount": {
+                "price": "₹13,132 ",
+                "percent": "(46% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kosmo-carnival-queen-size-bed-in-natural-wenge-finish-kosmo-carnival-queen-size-bed-in-natural-wenge-1zfc1r.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 364 Extra Pepperfry Credits (Worth ₹364)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 26,
+            "title": "Nikki Queen Size Bed in Wenge Finish",
+            "brand": "Mintwud from Pepperfry",
+            "price": {
+                "sell": "₹12,299 ",
+                "mrp": "₹15,999"
+            },
+            "discount": {
+                "price": "₹3,700 ",
+                "percent": "(23% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/n/i/494x544/nikki-queen-size-bed-in-wenge-finish-nikki-queen-size-bed-in-wenge-finish-3eszfi.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 308 Extra Pepperfry Credits (Worth ₹308)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 27,
+            "title": "Unique Single Bed in Wenge Finish with Box Storage",
+            "brand": "Neudot",
+            "price": {
+                "sell": "₹7,399 ",
+                "mrp": "₹17,000"
+            },
+            "discount": {
+                "price": "₹9,601 ",
+                "percent": "(56% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/u/n/494x544/unique-single-bed-in-wenge-finish-with-box-storage-unique-single-bed-in-wenge-finish-with-box-storag-girqqj.jpg",
+            "category": "beds",
+            "extraoffer": "",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 28,
+            "title": "Kimi King Size Bed in Brown Finish with Box Storage",
+            "brand": "Mintwud from Pepperfry",
+            "price": {
+                "sell": "₹21,599",
+                "mrp": "₹31,999"
+            },
+            "discount": {
+                "price": "₹10,400 ",
+                "percent": "(33% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kimi-king-size-bed-with-box-storage-in-moldau-akazia-brown-colour-by-mintwud-kimi-king-size-bed-with-pzbqii.jpg",
+            "category": "beds",
+            "extraoffer": "Earn 540 Extra Pepperfry Credits (Worth ₹540)",
+            "shipping": "Express Shipping in 1 day"
+        }
     ]
 }
