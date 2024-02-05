@@ -1,4 +1,6 @@
-{
+{   "stainRemover": "https://ii1.pepperfry.com/assets/56e33d61-39ae-4461-86e6-e97e63c1b662.jpg",
+    "furnitureCare":"https://ii1.pepperfry.com/assets/6a15786d-67cf-44bc-84ec-ed0aef7761f7.jpg",
+    
     "shop": [
         {
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_1.jpg",
@@ -47,6 +49,34 @@
         {
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_25.jpg",
             "product": "Bar Furniture"
+        }
+        
+    ],
+
+    "bestSeller":[
+        {
+            "image":"https://ii1.pepperfry.com/assets/d5b80d1b-0e33-4085-a905-6237822d1b9b.jpg",
+            "product": "Box Storage Beds"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/assets/c3a49a64-4e1b-4763-9a8f-43ef47b2a9c4.jpg",
+            "product": "Ergonomic Chairs"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/assets/3e0ebb48-8087-476c-8e6b-4df370effe95.jpg",
+            "product": "Velvet 3 Seater Sofas"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/assets/6aa38664-ae0f-479b-ba2d-851aa5a8f13f.jpg",
+            "product": "Writing Tables"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/assets/a5e9e4c4-0588-489e-94c9-db06b34bf520.jpg",
+            "product": "Contemporary Coffee Table"
+        },
+        {
+            "image": "https://ii1.pepperfry.com/assets/ee2b7bc8-1fb1-4a64-bc92-299a02476986.jpg",
+            "product": "6 Seater Dining Sets"
         }
         
     ],
