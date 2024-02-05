@@ -1098,5 +1098,541 @@
             "extraoffer": "Earn 540 Extra Pepperfry Credits (Worth ₹540)",
             "shipping": "Express Shipping in 1 day"
         }
-    ]
+    ],
+    "diningSet":[
+        {
+            "id": 1,
+            "title": "Segur Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹52,999 ",
+                "mrp": "₹67,999"
+            },
+            "discount": {
+                "price": "₹15,000",
+                "percent": "(22% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/s/e/494x544/segur-sheesham-wood-6-seater-dining-set-in-provincial-teak-finish-segur-sheesham-wood-6-seater-dinin-25p2ya.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+            "shipping": ""
+        },
+        {
+            "id": 2,
+            "title": "Alice Solid Wood 6 Seater Dining Set in Antique Cherry Finish",
+            "brand": "@home",
+            "price": {
+                "sell": "₹26,595 ",
+                "mrp": "₹50,840"
+            },
+            "discount": {
+                "price": "₹24,245",
+                "percent": " (48% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alice-solid-wood-6-seater-dining-set-in-antique-cherry-finish-alice-solid-wood-6-seater-dining-set-i-2qsr1u.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 532 Extra Pepperfry Credits (Worth ₹532)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 3,
+            "title": "Parnika Sheesham Wood 6 Seater Dining Set in Scratch Resistant Honey Oak Finish With Bench",
+            "brand": "Mudramark from Pepperfry",
+            "price": {
+                "sell": "₹51,499 ",
+                "mrp": "₹73,999"
+            },
+            "discount": {
+                "price": " ₹22,500 ",
+                "percent": "(30% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/p/a/494x544/parnika-sheesham-wood-6-seater-dining-set-in-honey-oak-finish-with-bench-parnika-sheesham-wood-6-sea-8vn6zw.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,288 Extra Pepperfry Credits (Worth ₹1,288)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 4,
+            "title": "Biscay Sheesham Wood 6 Seater Dining Set in Scratch Resistant Rustic Teak Finish With Bench",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹53,499 ",
+                "mrp": "₹72,999"
+            },
+            "discount": {
+                "price": "₹19,500",
+                "percent": "(27% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/b/i/494x544/biscay-solid-wood-6-seater-dining-set-with-bench-in-rustic-teak-finish-by-woodsworth-biscay-solid-wo-rwkxxk.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,338 Extra Pepperfry Credits (Worth ₹1,338)",
+            "shipping": ""
+        },
+        {
+            "id": 5,
+            "title": "Parnika Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provinicial Teak Finish With Bench",
+            "brand": "Mudramark from Pepperfry",
+            "price": {
+                "sell": "₹37,499",
+                "mrp": "₹50,999"
+            },
+            "discount": {
+                "price": " ₹13,500 ",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/p/a/494x544/parnika-sheesham-wood-4-seater-dining-set-in-provinicial-teak-finish-with-bench-parnika-sheesham-woo-mjnjun.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 938 Extra Pepperfry Credits (Worth ₹938)",
+            "shipping": ""
+        },
+        {
+            "id": 6,
+            "title": "Drusilla Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provincial Teak Finish With Bench",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹35,999 ",
+                "mrp": "₹48,999"
+            },
+            "discount": {
+                "price": "₹13,000",
+                "percent": "(27% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/d/r/494x544/drusilla-solid-wood-4-seater-dining-set-with-chair-and-bench-in-provincial-teak-finish---by-woodswor-fxq7pl.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 900 Extra Pepperfry Credits (Worth ₹900)",
+            "shipping": ""
+        },
+        {
+            "id": 7,
+            "title": " Antara Sheesham Wood 4 Seater Round Dining Set in Scratch Resistant Honey Oak Finish",
+            "brand": "Mudramark from Pepperfry",
+            "price": {
+                "sell": "₹41,499",
+                "mrp": "₹52,999"
+            },
+            "discount": {
+                "price": "₹11,500",
+                "percent": "(22% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/n/494x544/antara-sheesham-wood-4-seater-round-dining-set-in-honey-oak-finish-antara-sheesham-wood-4-seater-rou-rsswet.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 8,
+            "title": " Alice 6 Seater Dining Set in Cherry Finish with Bench",
+            "brand": "@home",
+            "price": {
+                "sell": "₹24,730 ",
+                "mrp": "₹47,760"
+            },
+            "discount": {
+                "price": "₹23,030",
+                "percent": "(48% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alice-6-seater-dining-set-in-cherry-finish-with-bench-alice-6-seater-dining-set-in-cherry-finish-wit-beeond.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 495 Extra Pepperfry Credits (Worth ₹495)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 9,
+            "title": "Alamo Sheesham Wood 6 Seater Dining Set In Scratch Resistant Provincial Teak Finish With Bench",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹63,999",
+                "mrp": "₹85,999"
+            },
+            "discount": {
+                "price": "₹22,000",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alamo-solid-wood-6-seater-dining-set-with-bench-in-provincial-teak-finish-by-woodsworth-alamo-solid--l4gkqa.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,600 Extra Pepperfry Credits (Worth ₹1,600)",
+            "shipping": ""
+        },
+        {
+            "id": 10,
+            "title": "Biscay Sheesham Wood 4 Seater Dining Set in Scratch Resistant Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹41,499",
+                "mrp": "₹52,999"
+            },
+            "discount": {
+                "price": "₹11,500 ",
+                "percent": "(22% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/b/i/494x544/biscay-sheesham-wood-4-seater-dining-set-in-provincial-teak-finish-biscay-sheesham-wood-4-seater-din-ia1yjp.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+            "shipping": ""
+        },
+        {
+            "id": 11,
+            "title": "Parnika Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provincial Teak Finish",
+            "brand": "Mudramark from Pepperfry",
+            "price": {
+                "sell": "₹37,499 ",
+                "mrp": "₹50,999"
+            },
+            "discount": {
+                "price": "₹13,500",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/p/a/494x544/parnika-sheesham-wood-4-seater-dining-set-in-provincial-teak-finish-by-mudramark-parnika-sheesham-wo-3ngpy5.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 938 Extra Pepperfry Credits (Worth ₹938)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 12,
+            "title": "Tourconing Sheesham Wood 6 Seater Dining Set in Scratch Resistant Rustic Teak Finish With Bench",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹46,999",
+                "mrp": " ₹63,999"
+            },
+            "discount": {
+                "price": "₹17,000 ",
+                "percent": "(27% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/t/o/494x544/tourconing-sheesham-wood-6-seater-dining-set-in-rustic-teak-finish-with-bench-tourconing-sheesham-wo-5zvzjj.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,175 Extra Pepperfry Credits (Worth ₹1,175)",
+            "shipping": ""
+        },
+        {
+            "id": 13,
+            "title": "Rezzan Sheesham Wood 6 Seater Dining Set In Scratch Resistant Rustic Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹59,499 ",
+                "mrp": "₹75,999"
+            },
+            "discount": {
+                "price": "₹16,500",
+                "percent": "(22% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/r/e/494x544/rezzan-sheesham-wood-6-seater-dining-set-in-rustic-teak-finish-rezzan-sheesham-wood-6-seater-dining--1yznoi.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,488 Extra Pepperfry Credits (Worth ₹1,488)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 14,
+            "title": "Enrico 6 Seater Dining Set With Porcelain Top & Golden Base",
+            "brand": "Casacraft from Pepperfry",
+            "price": {
+                "sell": "₹93,499",
+                "mrp": "₹1,28,999"
+            },
+            "discount": {
+                "price": "₹35,500",
+                "percent": "(28% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/494x544/perdue-6-seater-dining-set-with-white-marble-top---golden-base-by-bohemiana-perdue-6-seater-dining-s-5opr1k.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 2,338 Extra Pepperfry Credits (Worth ₹2,338)",
+            "shipping": ""
+        },
+        {
+            "id": 15,
+            "title": "Kentan Sheesham Wood 4 Seater Dining Set In Rustic Teak Finish with Drawer",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹35,499 ",
+                "mrp": "₹47,999"
+            },
+            "discount": {
+                "price": "₹12,500 ",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/k/e/494x544/kentan-sheesham-wood-4-seater-dining-set-in-rustic-teak-finish-with-drawer-kentan-sheesham-wood-4-se-kylbqf.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 888 Extra Pepperfry Credits (Worth ₹888)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 16,
+            "title": " Marin Sheesham Wood 4 Seater Dining Set in Scratch Resistant Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹32,999",
+                "mrp": "₹47,999"
+            },
+            "discount": {
+                "price": "₹15,000 ",
+                "percent": "(31% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marin-solid-wood-4-seater-dining-set-in-provincial-teak-finish-by-woodsworth-marin-solid-wood-4-seat-bzlc4g.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 825 Extra Pepperfry Credits (Worth ₹825)",
+            "shipping": ""
+        },
+        {
+            "id": 17,
+            "title": " Aoki Solid Wood 4 Seater Dining Set in Cocoa & Tempo Teal Finish",
+            "brand": "Mintwud from Pepperfry",
+            "price": {
+                "sell": "₹19,399",
+                "mrp": "₹32,499"
+            },
+            "discount": {
+                "price": "₹13,100 ",
+                "percent": "(40% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/a/o/494x544/aoki-solid-wood-4-seater-dining-set-in-cocoa---tempo-teal-colour-aoki-solid-wood-4-seater-dining-set-zjcjgm.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 555 Extra Pepperfry Credits (Worth ₹555)",
+            "shipping": "Express Shipping in 1 day"
+        },
+        {
+            "id": 18,
+            "title": "Drusilla Sheesham Wood 6 Seater Dining Set In Scratch Resistant Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹51,999 ",
+                "mrp": "₹74,999"
+            },
+            "discount": {
+                "price": "₹23,000",
+                "percent": "(31% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/d/r/494x544/drusilla-solid-wood-6-seater-dining-set-with-chair--in-provincial-teak-finish---by-woodsworth-drusil-2n68as.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,300 Extra Pepperfry Credits (Worth ₹1,300)",
+            "shipping": ""
+        },
+        {
+            "id": 19,
+            "title": " Parnika Sheesham Wood 4 Seater Dining Set in Scratch Resistant Honey Oak Finish With Bench",
+            "brand": "Mudramark from Pepperfry",
+            "price": {
+                "sell": "₹37,499 ",
+                "mrp": "₹50,999"
+            },
+            "discount": {
+                "price": "₹13,500",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/p/a/494x544/parnika-sheesham-wood-4-seater-dining-set-in-honey-oak-finish-with-bench-parnika-sheesham-wood-4-sea-jzlyre.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 938 Extra Pepperfry Credits (Worth ₹938)",
+            "shipping": ""
+        },
+        {
+            "id": 20,
+            "title": "Biscay Sheesham Wood 6 Seater Dining Set in Scratch Resistant Provincial Teak Finish With Bench",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹53,499",
+                "mrp": "₹72,999"
+            },
+            "discount": {
+                "price": "₹19,500",
+                "percent": "(27% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/b/i/494x544/biscay-solid-wood-6-seater-dining-set-with-bench-in-provincial-teak-finish-by-woodsworth-biscay-soli-lfq5xj.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,338 Extra Pepperfry Credits (Worth ₹1,338)",
+            "shipping": ""
+        },
+        {
+            "id": 21,
+            "title": "Siramika Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish With Bench",
+            "brand": "Mudramark from Pepperfry",
+            "price": {
+                "sell": "₹66,999 ",
+                "mrp": "₹87,999"
+            },
+            "discount": {
+                "price": "₹21,000",
+                "percent": "(24% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/s/i/494x544/siramika-sheesham-wood-6-seater-dining-set-in-provincial-teak-finish-with-bench-siramika-sheesham-wo-kwnyxf.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,675 Extra Pepperfry Credits (Worth ₹1,675)",
+            "shipping": ""
+        },
+        {
+            "id": 22,
+            "title": " Drusilla Sheesham Wood 6 Seater Dining Set In Scratch Resistant Provincial Teak Finish With Bench",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹51,999 ",
+                "mrp": "₹74,999"
+            },
+            "discount": {
+                "price": "₹23,000 ",
+                "percent": "(31% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/d/r/494x544/drusilla-solid-wood-6-seater-dining-set-with-chair-and-bench--in-provincial-teak-finish---by-woodswo-dzfjai.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,300 Extra Pepperfry Credits (Worth ₹1,300)",
+            "shipping": ""
+        },
+        {
+            "id": 23,
+            "title": "Kentan Sheesham Wood 6 Seater Dining Set In Rustic Teak With Bench",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹52,999",
+                "mrp": "₹73,999"
+            },
+            "discount": {
+                "price": "₹21,000 ",
+                "percent": "(28% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/k/e/494x544/kentan-sheesham-wood-6-seater-dining-set-in-rustic-teak-with-bench-kentan-sheesham-wood-6-seater-din-cvmskc.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+            "shipping": ""
+        },
+        {
+            "id": 24,
+            "title": " Speyer Sheesham Wood 6 Seater Dining Set In Classic Scratch Resistant Honey Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹64,499 ",
+                "mrp": "₹90,999"
+            },
+            "discount": {
+                "price": "₹26,500 ",
+                "percent": "(29% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/o/n/494x544/oneill-solid-wood-6-seater-dining-set-in-honey-oak-finish-by-woodsworth-oneill-solid-wood-6-seater-d-s0ls5r.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,613 Extra Pepperfry Credits (Worth ₹1,613)",
+            "shipping": "Made To Order, Ships in 11 days"
+        },
+        {
+            "id": 25,
+            "title": " Jenna Metal 4 Seater Dining Set in Black Finish",
+            "brand": "Durian",
+            "price": {
+                "sell": "₹26,520 ",
+                "mrp": "₹44,200"
+            },
+            "discount": {
+                "price": "₹17,680",
+                "percent": "(40% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/j/e/494x544/jenna-dining-set-in-black-by-durian-jenna-dining-set-in-black-by-durian-hepwa1.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 531 Extra Pepperfry Credits (Worth ₹531)",
+            "shipping": ""
+        },
+        {
+            "id": 26,
+            "title": "Patron Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish With Bench",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹54,499 ",
+                "mrp": "₹73,999"
+            },
+            "discount": {
+                "price": "₹19,500",
+                "percent": "(26% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/p/a/494x544/patron-sheesham-wood-6-seater-dining-set-in-provincial-teak-finish-with-bench-patron-sheesham-wood-6-w60xzz.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,363 Extra Pepperfry Credits (Worth ₹1,363)",
+            "shipping": ""
+        },
+        {
+            "id": 27,
+            "title": " Drusilla Sheesham Wood 4 Seater Dining Set In Scratch Resistant Provincial Teak Finish",
+            "brand": "Woodsworth from Pepperfry",
+            "price": {
+                "sell": "₹34,499 ",
+                "mrp": "₹51,999"
+            },
+            "discount": {
+                "price": "₹17,500",
+                "percent": "(34% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/d/r/494x544/drusilla-sheesham-wood-4-seater-dining-set-in-scratch-resistant-provincial-teak-finish-drusilla-shee-ddy12b.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 863 Extra Pepperfry Credits (Worth ₹863)",
+            "shipping": "Ships in 3 days"
+        },
+        {
+            "id": 28,
+            "title": "Takhat Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish",
+            "brand": "Mudramark from Pepperfry",
+            "price": {
+                "sell": "₹47,999 ",
+                "mrp": "₹66,999"
+            },
+            "discount": {
+                "price": "₹19,000 ",
+                "percent": "(28% off)"
+            },
+            "rating": "4.5",
+            "image": "https://ii1.pepperfry.com/media/catalog/product/t/a/494x544/takhat-sheesham-wood-6-seater-dining-set-in-provincial-teak-finish-takhat-sheesham-wood-6-seater-din-enapcu.jpg",
+            "category": "dinningSet",
+            "extraoffer": "Earn 1,200 Extra Pepperfry Credits (Worth ₹1,200)",
+            "shipping": "Express Shipping in 1 day"
+        }
+        
+    ],
+    "studyTables":[
+        {
+            "id": 1,
+            "title": "",
+            "brand": "",
+            "price": {
+                "sell": "",
+                "mrp": ""
+            },
+            "discount": {
+                "price": "",
+                "percent": ""
+            },
+            "rating": "4.5",
+            "image": "",
+            "category": "studyTable",
+            "extraoffer": "",
+            "shipping": ""
+        },
+        
+    ],
+    "centreTables":[],
+    "recliners":[],
+    "sectionalSofas":[],
+    "wardrobes":[],
+    "cabinatesSideboards":[],
+    "officeFurniture":[],
+    "shoeRacks":[],
+    "barFurniture":[]
 }
