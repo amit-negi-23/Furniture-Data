@@ -4,53 +4,77 @@
         "furnitureCare": "https://ii1.pepperfry.com/assets/6a15786d-67cf-44bc-84ec-ed0aef7761f7.jpg"
     },
     "shop": [
-        {
+        {   
+            "id":1,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_1.jpg",
-            "product": "Sofas"
+            "product": "Sofas",
+            "pathname": "Sofas"
         },
-        {
+        {   
+            "id": 2,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_26.jpg",
-            "product": "Beds"
+            "product": "Beds",
+            "pathname": "Beds"
+            
         },
         {
+            "id": 3,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_21.jpg",
-            "product": "Dining Sets"
+            "product": "Dining Sets",
+            "pathname": "DiningSets"
         },
         {
+            "id": 4,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_33.jpg",
-            "product": "Study tables"
+            "product": "Study tables",
+            "pathname": "StudyTables"
         },
         {
+            "id": 5,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_15.jpg",
-            "product": "Centre Tables"
+            "product": "Centre Tables",
+            "pathname": "CentreTables"
         },
-        {
+        {   
+            "id": 6,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_7.jpg",
-            "product": "Recliners"
+            "product": "Recliners",
+            "pathname": "Recliners"
         },
         {
+            "id": 7,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_2.jpg",
             "product": "Sectional Sofas"
         },
         {
+            "id": 8,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_31.jpg",
-            "product": "Wardrobes"
+            "product": "Wardrobes",
+            "pathname": "Wardrobes"
         },
         {
+            "id": 9,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_18.jpg",
-            "product": "Cabinets & Sideboards"
+            "product": "Cabinets & Sideboards",
+            "pathname": "CabinetsAndSideboards"
         },
         {
+            "id": 10,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_34.jpg",
-            "product": "Office Furniture"
+            "product": "Office Furniture",
+            "pathname": "OfficeFurniture"
         },
         {
+            "id": 11,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_14.jpg",
-            "product": "Shoe Racks"
+            "product": "Shoe Racks",
+            "pathname": "Shoe Racks"
         },
         {
+            "id": 12,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_25.jpg",
-            "product": "Bar Furniture"
+            "product": "Bar Furniture",
+            "pathname": "BarFurniture"
         }
     ],
     "bestSeller": [
