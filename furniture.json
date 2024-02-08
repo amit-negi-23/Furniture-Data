@@ -8,13 +8,13 @@
             "id":1,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_1.jpg",
             "product": "Sofas",
-            "pathname": "Sofas"
+            "pathname": "sofas"
         },
         {   
             "id": 2,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_26.jpg",
             "product": "Beds",
-            "pathname": "Beds"
+            "pathname": "beds"
             
         },
         {
