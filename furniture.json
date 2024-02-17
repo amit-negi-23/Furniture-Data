@@ -8,107 +8,107 @@
             "id":1,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_1.jpg",
             "product": "Sofas",
-            "pathname": "Sofas"
+            "pathname": "sofas"
         },
         {   
             "id": 2,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_26.jpg",
             "product": "Beds",
-            "pathname": "Beds"
+            "pathname": "beds"
             
         },
         {
             "id": 3,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_21.jpg",
             "product": "Dining Sets",
-            "pathname": "DiningSets"
+            "pathname": "diningSets"
         },
         {
             "id": 4,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_33.jpg",
             "product": "Study tables",
-            "pathname": "StudyTables"
+            "pathname": "studyTables"
         },
         {
             "id": 5,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_15.jpg",
             "product": "Centre Tables",
-            "pathname": "CentreTables"
+            "pathname": "centreTables"
         },
         {   
             "id": 6,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_7.jpg",
             "product": "Recliners",
-            "pathname": "Recliners"
+            "pathname": "recliners"
         },
         {
             "id": 7,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_2.jpg",
             "product": "Sectional Sofas",
-            "pathname": "SectionalSofas"
+            "pathname": "sectionalSofas"
         },
         {
             "id": 8,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_31.jpg",
             "product": "Wardrobes",
-            "pathname": "Wardrobes"
+            "pathname": "wardrobes"
         },
         {
             "id": 9,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_18.jpg",
             "product": "Cabinets & Sideboards",
-            "pathname": "CabinetsAndSideboards"
+            "pathname": "cabinetsAndSideboards"
         },
         {
             "id": 10,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_34.jpg",
             "product": "Office Furniture",
-            "pathname": "OfficeFurniture"
+            "pathname": "officeFurniture"
         },
         {
             "id": 11,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_14.jpg",
             "product": "Shoe Racks",
-            "pathname": "ShoeRacks"
+            "pathname": "shoeRacks"
         },
         {
             "id": 12,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_25.jpg",
             "product": "Bar Furniture",
-            "pathname": "BarFurniture"
+            "pathname": "barFurniture"
         }
     ],
     "bestSeller": [
         {
             "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marbito-queen-size-bed-in-white-finish-with-box-storage-marbito-queen-size-bed-in-white-finish-with--h1imyy.jpg",
             "product": "Box Storage Beds",
-            "pathname": "Beds/bed6"
+            "pathname": "beds/bed6"
         },
         {
             "image": "https://ii1.pepperfry.com/media/catalog/product/n/e/494x544/new-york-high-back-ergonomic-chair-with-headrest-in-black-colour-by-green-soul-new-york-high-back-er-da3xje.jpg",
             "product": "Ergonomic Chairs",
-            "pathname": "OfficeFurniture/officeFurniture27"
+            "pathname": "officeFurniture/officeFurniture27"
         },
         {
             "image": "https://ii1.pepperfry.com/media/catalog/product/b/o/494x544/bonito-velvet-3-seater-sofa-in-beige-colour-bonito-velvet-3-seater-sofa-in-beige-colour-7qljfz.jpg",
             "product": "Velvet 3 Seater Sofas",
-            "pathname": "Sofas/sofa3"
+            "pathname": "sofas/sofa3"
 
         },
         {
             "image": "https://ii1.pepperfry.com/media/catalog/product/w/a/494x544/warlick-solid-wood-desk-table-in-rustic-teak-finish-by-woodsworth-warlick-solid-wood-desk-table-in-r-n5asqr.jpg",
             "product": "Writing Tables",
-            "pathname":"StudyTables/studyTable19"
+            "pathname":"studyTables/studyTable19"
         },
         {
             "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kiosk-coffee-table-in-frosty-white-colour-by-a-globia-creations-kiosk-coffee-table-in-frosty-white-c-rzgbhh.jpg",
             "product": "Contemporary Coffee Table",
-            "pathname": "CentreTables/centreTable4"
+            "pathname": "centreTables/centreTable4"
         },
         {
             "image": "https://ii1.pepperfry.com/media/catalog/product/a/l/494x544/alice-6-seater-dining-set-in-cherry-finish-with-bench-alice-6-seater-dining-set-in-cherry-finish-wit-beeond.jpg",
             "product": "6 Seater Dining Sets",
-            "pathname": "DiningSets/diningSet8"
+            "pathname": "diningSets/diningSet8"
         }
     ],
     "sofas": [
@@ -1132,7 +1132,7 @@
             "shipping": "Express Shipping in 1 day"
         }
     ],
-    "diningSet":[
+    "diningSets":[
         {
             "id": 1,
             "title": "Segur Sheesham Wood 6 Seater Dining Set In Provincial Teak Finish",
@@ -4183,7 +4183,7 @@
         }
         
     ],
-    "cabinatesSideboards":[
+    "cabinetsAndSideboards":[
         {
             "id": 1,
             "title": "Versaille Solid Wood Sideboard In Tulip Finish",
