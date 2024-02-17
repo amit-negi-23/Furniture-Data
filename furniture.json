@@ -111,7 +111,7 @@
             "pathname": "diningSets/diningSet8"
         }
     ],
-    "sofas": [
+    "sofas":[
         {
             "id": 1,
             "productId": "sofa1",
@@ -133,6 +133,7 @@
         },
         {
             "id": 2,
+            "productId": "sofa2",
             "title": "Fidel Fabric 2 Seater Sofa In Slate Grey Colour",
             "brand": "Casacraft",
             "price": {
@@ -151,6 +152,7 @@
         },
         {
             "id": 3,
+            "productId": "sofa3",
             "title": "Bonito Velvet 3 Seater Sofa in Beige Colour",
             "brand": "Casacraft",
             "price": {
@@ -169,6 +171,7 @@
         },
         {
             "id": 4,
+            "productId": "sofa4",
             "title": "Jack Velvet 2 Seater Sofa Pink Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -187,6 +190,7 @@
         },
         {
             "id": 5,
+            "productId": "sofa5",
             "title": "Bali Fabric 1 Seater Sofa In Imperal Green Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -205,6 +209,7 @@
         },
         {
             "id": 6,
+            "productId": "sofa6",
             "title": "Hairo Velvet 1 Seater Sofa In Beige Colour",
             "brand": "Casacraft ",
             "price": {
@@ -223,6 +228,7 @@
         },
         {
             "id": 7,
+            "productId": "sofa7",
             "title": "Alaine Fabric 1 Seater Sofa In Navy Blue Colour",
             "brand": "Casacraft",
             "price": {
@@ -241,6 +247,7 @@
         },
         {
             "id": 8,
+            "productId": "sofa8",
             "title": "Alaine Fabric 1 Seater Sofa In Garnet Red Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -259,6 +266,7 @@
         },
         {
             "id": 9,
+            "productId": "sofa9",
             "title": "Fidel Velvet 1 Seater Sofa In Teal Blue Colour",
             "brand": "Casacraft",
             "price": {
@@ -277,6 +285,7 @@
         },
         {
             "id": 10,
+            "productId": "sofa10",
             "title": "Milano Fabric 2 Seater Sofa In Grey Colourr",
             "brand": "Woodsworth",
             "price": {
@@ -295,6 +304,7 @@
         },
         {
             "id": 11,
+            "productId": "sofa11",
             "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -313,6 +323,7 @@
         },
         {
             "id": 12,
+            "productId": "sofa12",
             "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -331,6 +342,7 @@
         },
         {
             "id": 13,
+            "productId": "sofa13",
             "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -349,6 +361,7 @@
         },
         {
             "id": 14,
+            "productId": "sofa14",
             "title": "Penza Leatherette 1 Seater Sofa In Grey Colour",
             "brand": "Casacraft from Pepperfry",
             "price": {
@@ -367,6 +380,7 @@
         },
         {
             "id": 15,
+            "productId": "sofa15",
             "title": "Diego Fabric 2 Seater Sofa In Ash Grey Colour",
             "brand": "Woodsworth",
             "price": {
@@ -385,6 +399,7 @@
         },
         {
             "id": 16,
+            "productId": "sofa16",
             "title": "Miranda Fabric 1 Seater Sofa In Camel Yellow Colour",
             "brand": "Woodsworth",
             "price": {
@@ -403,6 +418,7 @@
         },
         {
             "id": 17,
+            "productId": "sofa17",
             "title": "Miranda Fabric 3 Seater Sofa In Navy Blue Colour",
             "brand": "Woodsworth",
             "price": {
@@ -421,6 +437,7 @@
         },
         {
             "id": 18,
+            "productId": "sofa18",
             "title": "Amanda Fabric 2 Seater Sofa In Charcoal Grey Colour",
             "brand": "Casacraft",
             "price": {
@@ -439,6 +456,7 @@
         },
         {
             "id": 19,
+            "productId": "sofa19",
             "title": "Stuttgart Fabric 1 Seater Sofa in Navy Blue Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -457,6 +475,7 @@
         },
         {
             "id": 20,
+            "productId": "sofa20",
             "title": "Bali Fabric 3 Seater Sofa In Jeans Blue Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -475,6 +494,7 @@
         },
         {
             "id": 21,
+            "productId": "sofa21",
             "title": "Enchant Fabric 1 Seater Sofa In Imperial Green Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -493,6 +513,7 @@
         },
         {
             "id": 22,
+            "productId": "sofa22",
             "title": "Amanda Fabric 1 Seater Sofa In Steel Grey Colour",
             "brand": "Casacraft from Pepperfry",
             "price": {
@@ -511,6 +532,7 @@
         },
         {
             "id": 23,
+            "productId": "sofa23",
             "title": "Bali Velvet 1 Seater Sofa in Blue Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -529,6 +551,7 @@
         },
         {
             "id": 24,
+            "productId": "sofa24",
             "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -547,6 +570,7 @@
         },
         {
             "id": 25,
+            "productId": "sofa25",
             "title": "Eugene Fabric 3 Seater Sofa In Blue Colour",
             "brand": "Casacraft from Pepperfry",
             "price": {
@@ -565,6 +589,7 @@
         },
         {
             "id": 26,
+            "productId": "sofa26",
             "title": "Enchant Fabric 2 Seater Sofa In Grey Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -583,6 +608,7 @@
         },
         {
             "id": 27,
+            "productId": "sofa27",
             "title": "Bali Fabric 1 Seater Sofa in Grey Colour",
             "brand": "Trevi Furniture",
             "price": {
@@ -601,6 +627,7 @@
         },
         {
             "id": 28,
+            "productId": "sofa28",
             "title": "Java Velvet 1 Seater Sofa In Grey Colour",
             "brand": "Trevi Furniture",
             "price": {
