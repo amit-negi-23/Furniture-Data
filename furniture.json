@@ -248,7 +248,7 @@
                 "shipping": "Express Shipping in 1 day"
             }
         ],
-        "dinningSets": [
+        "diningSets": [
             {
                 "id": 1,
                 "productId": "diningSetOffer1",
