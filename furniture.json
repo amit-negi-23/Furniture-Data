@@ -4,18 +4,17 @@
         "furnitureCare": "https://ii1.pepperfry.com/assets/6a15786d-67cf-44bc-84ec-ed0aef7761f7.jpg"
     },
     "shop": [
-        {   
-            "id":1,
+        {
+            "id": 1,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_1.jpg",
             "product": "Sofas",
             "pathname": "sofas"
         },
-        {   
+        {
             "id": 2,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_26.jpg",
             "product": "Beds",
             "pathname": "beds"
-            
         },
         {
             "id": 3,
@@ -35,7 +34,7 @@
             "product": "Centre Tables",
             "pathname": "centreTables"
         },
-        {   
+        {
             "id": 6,
             "image": "https://ii1.pepperfry.com/media/wysiwyg/banners/Furniture_category_01nov_360_7.jpg",
             "product": "Recliners",
@@ -78,6 +77,944 @@
             "pathname": "barFurniture"
         }
     ],
+    "furnitureOffer": {
+        "sofas": [
+            {
+                "id": 1,
+                "productId": "sofaOffer1",
+                "title": "Pedro 3 Seater Sofa In Velvet Camel Beige Colour,",
+                "brand": "Trevi Furniture",
+                "price": {
+                    "sell": "25,185",
+                    "mrp": "52,999"
+                },
+                "discount": {
+                    "price": "27,814",
+                    "percent": "(52 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/494x544/pedro-3-seater-sofa-in-velvet-camel-beige-colour-pedro-3-seater-sofa-in-velvet-camel-beige-colour-rgbcdr.jpg",
+                "category": "Sofas",
+                "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 2,
+                "productId": "sofaOffer2",
+                "title": "Romona Velvet Fabric 3 Seater Curve Sofa In Ash Grey Colour,",
+                "brand": "Casacraft",
+                "price": {
+                    "sell": "50,999",
+                    "mrp": "67,999"
+                },
+                "discount": {
+                    "price": "17,000 ",
+                    "percent": "(25% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/r/o/494x544/romona-fabric-3-seater-curve-sofa-in-ash-grey-colour-romona-fabric-3-seater-curve-sofa-in-ash-grey-c-rbiiyn.jpg",
+                "category": "Sofas",
+                "extraoffer": "Earn 863 Extra Pepperfry Credits (Worth ₹863)",
+                "shipping": "Ships in 7 days"
+            },
+            {
+                "id": 3,
+                "productId": "sofaOffer3",
+                "title": "Antalya Velvet 3 Seater Sofa in Bottle Green Colour,",
+                "brand": "By Urban Living",
+                "price": {
+                    "sell": "26,263",
+                    "mrp": "35,799"
+                },
+                "discount": {
+                    "price": "9,536",
+                    "percent": "(27% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/a/n/494x544/antalya-3-seater-sofa-in-bottle-green-finish-by-urban-living-antalya-3-seater-sofa-in-bottle-green-f-ebdlxk.jpg",
+                "category": "Sofas",
+                "extraoffer": "Earn 836 Extra Pepperfry Credits (Worth ₹836)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "sofaOffer4",
+                "title": "Clarkson Leatherette 3 Seater Sofa in Burgundy Colour,",
+                "brand": "By Durian",
+                "price": {
+                    "sell": "61,680",
+                    "mrp": "1,02,800"
+                },
+                "discount": {
+                    "price": "41,120 ",
+                    "percent": "(40% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/c/l/494x544/clarkson-leatherette-3-seater-sofa-in-burgundy-colour-clarkson-leatherette-3-seater-sofa-in-burgundy-wgkkvd.jpg",
+                "category": "Sofas",
+                "extraoffer": "Earn 440 Extra Pepperfry Credits (Worth ₹440)",
+                "shipping": "Express Shipping in 1 day"
+            }
+        ],
+        "beds": [
+            {
+                "id": 1,
+                "productId": "bedOffer1",
+                "title": "Stanfield Sheesham Wood King Size Bed In Provincial Teak Finish,",
+                "brand": "By Amberville from Pepperfry",
+                "price": {
+                    "sell": "56,999",
+                    "mrp": "64,999"
+                },
+                "discount": {
+                    "price": "8,000",
+                    "percent": "(12 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/stanfield-solid-wood-king-size-bed-in-provincial-teak-finish-by-amberville-stanfield-solid-wood-king-ilohri.jpg",
+                "category": "Sofas",
+                "extraoffer": "Earn 218 Extra Pepperfry Credits (Worth ₹218)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 2,
+                "productId": "bedOffer2",
+                "title": "Zurndorf Sheesham Wood Single BedProvincial Teak Finish With Box Storage,",
+                "brand": "By Woodsworth from Pepperfry",
+                "price": {
+                    "sell": "29,999",
+                    "mrp": "42,999"
+                },
+                "discount": {
+                    "price": "13,000",
+                    "percent": "(30% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/z/y/494x544/zyva-single-bed-with-box-storage-in-provincial-teak-finish-by-woodsworth-zyva-single-bed-with-box-st-luc8do.jpg",
+                "category": "Sofas",
+                "extraoffer": "Earn 863 Extra Pepperfry Credits (Worth ₹7,500)",
+                "shipping": "Ships in 7 days"
+            },
+            {
+                "id": 3,
+                "productId": "bedOffer3",
+                "title": "Kosmo Imperial Queen Size Bed Wenge Finish with Drawer Storage",
+                "brand": "Spacewood",
+                "price": {
+                    "sell": "37,352 ",
+                    "mrp": "58,249"
+                },
+                "discount": {
+                    "price": "20,897 ",
+                    "percent": "(36% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kosmo-imperial-queen-size-bed-in-natural-wenge-finish-with-drawer-storage-kosmo-imperial-queen-size--ziutqg.jpg",
+                "category": "Sofas",
+                "extraoffer": "Earn 836 Extra Pepperfry Credits (Worth ₹836)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "bedOffer4",
+                "title": "Kosmo Lilly Queen Size Bed in Kingston & Sebastian with Box Storage",
+                "brand": "Spacewood",
+                "price": {
+                    "sell": "26,820",
+                    "mrp": "46,032"
+                },
+                "discount": {
+                    "price": "19,212",
+                    "percent": "(42% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/k/o/494x544/kosmo-lilly-queen-size-bed-with-box-storage-in-kingston-white-finish-by-spacewood-kosmo-lilly-queen--ionoix.jpg",
+                "category": "Sofas",
+                "extraoffer": "Earn 440 Extra Pepperfry Credits (Worth ₹440)",
+                "shipping": "Express Shipping in 1 day"
+            }
+        ],
+        "dinningSet": [
+            {
+                "id": 1,
+                "productId": "diningSetOffer1",
+                "title": " Speyer Sheesham Wood 6 Seater Dining Set In Classic Scratch Resistant Honey Finish",
+                "brand": "Woodsworth from Pepperfry",
+                "price": {
+                    "sell": "64,499 ",
+                    "mrp": "90,999"
+                },
+                "discount": {
+                    "price": "26,500 ",
+                    "percent": "(29% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/o/n/494x544/oneill-solid-wood-6-seater-dining-set-in-honey-oak-finish-by-woodsworth-oneill-solid-wood-6-seater-d-s0ls5r.jpg",
+                "category": "dinningSet",
+                "extraoffer": "Earn 1,613 Extra Pepperfry Credits (Worth ₹1,613)",
+                "shipping": "Made To Order, Ships in 11 days"
+            },
+            {
+                "id": 2,
+                "productId": "diningSetOffer2",
+                "title": "Merche Solid Wood 6 Seater Dining Set In Natural Finish,",
+                "brand": "By Casacraft from Pepperfry",
+                "price": {
+                    "sell": "33,499",
+                    "mrp": "40,999"
+                },
+                "discount": {
+                    "price": "7,500 ",
+                    "percent": "(18 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/m/e/494x544/merche-solid-wood-6-seater-dining-set-in-natural-finish-merche-solid-wood-6-seater-dining-set-in-nat-0o9cht.jpg",
+                "category": "dinningSet",
+                "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 3,
+                "productId": "diningSetOffer3",
+                "title": "Jenna Metal 6 Seater Dining Set in Black Finish,",
+                "brand": "By Durian",
+                "price": {
+                    "sell": "41,400",
+                    "mrp": "69,000"
+                },
+                "discount": {
+                    "price": "27,600 ",
+                    "percent": "(40 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/j/e/494x544/jenna-6-seater-dining-set-in-black-finish-by-durian-jenna-6-seater-dining-set-in-black-finish-by-dur-gusbep.jpg",
+                "category": "dinningSet",
+                "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "diningSetOffer4",
+                "title": "Zufa Solid Wood 4 Seater Dining Set In Midas Gold Finish",
+                "brand": "Wakefit",
+                "price": {
+                    "sell": "19,447 ",
+                    "mrp": "27,390"
+                },
+                "discount": {
+                    "price": "7,943 ",
+                    "percent": "(29% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/z/u/494x544/zufa-solid-wood-4-seater-dining-set-in-midas-gold-finish-zufa-solid-wood-4-seater-dining-set-in-mida-dqgmr5.jpg",
+                "category": "dinningSet",
+                "extraoffer": "Earn 1,325 Extra Pepperfry Credits (Worth ₹1,325)",
+                "shipping": "Express Shipping in 1 day"
+            }
+        ],
+        "studyTable": [
+            {
+                "id": 1,
+                "productId": "studyTableOffer1",
+                "title": "Kosmo Winner Hutch Desk in Rigato Walnut Finish,",
+                "brand": "By Spacewood",
+                "price": {
+                    "sell": "7,810",
+                    "mrp": "9,999"
+                },
+                "discount": {
+                    "price": "2,189 ",
+                    "percent": "(22 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/w/i/494x544/winner-hutch-desk-in-rigato-walnut-finish-winner-hutch-desk-in-rigato-walnut-finish-ijoses.jpg",
+                "category": "studyTable",
+                "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 2,
+                "productId": "studyTableOffer2",
+                "title": "Marvel Study Table in Frosty White And Ocean Green Finish,",
+                "brand": "By Woodbuzz",
+                "price": {
+                    "sell": "13,600",
+                    "mrp": "23,200"
+                },
+                "discount": {
+                    "price": "9,600 ",
+                    "percent": "(41 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marvel-study-table--in-wenge-and-frosty-white-colour-by-woodbuzz-marvel-study-table--in-wenge-and-fr-b7hrhk.jpg",
+                "category": "studyTable",
+                "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 3,
+                "productId": "studyTableOffer3",
+                "title": "Kosmo Coral Kids Study Table in Drift Wood Finish",
+                "brand": "Spacewood",
+                "price": {
+                    "sell": "9,618 ",
+                    "mrp": "17,422"
+                },
+                "discount": {
+                    "price": "7,804",
+                    "percent": "(45% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/c/o/494x544/coral-study-table-in-drift-wood-finish-by-spacewood-coral-study-table-in-drift-wood-finish-by-spacew-2nvr6m.jpg",
+                "category": "studyTable",
+                "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "studyTableOffer4",
+                "title": "Duke Writing Table in Frosty White And Ocean Green Finish,",
+                "brand": "By Woodbuzz",
+                "price": {
+                    "sell": "4,725",
+                    "mrp": "6,800"
+                },
+                "discount": {
+                    "price": "2,075 ",
+                    "percent": "(31 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/d/u/494x544/duke-writing-table-in-frosty-white-and-ocean-green-colour-by-woodbuzz-duke-writing-table-in-frosty-w-znkbdo.jpg",
+                "category": "studyTable",
+                "extraoffer": "Earn 172 Extra Pepperfry Credits (Worth ₹172)",
+                "shipping": "Express Shipping in 1 day"
+            }
+        ],
+        "centreTables": [
+            {
+                "id": 1,
+                "productId": "centreTableOffer1",
+                "title": "Daist Coffee Table In Exotic Teak Finish",
+                "brand": "A GLOBIA CREATIONS",
+                "price": {
+                    "sell": "6,187 ",
+                    "mrp": "8,004"
+                },
+                "discount": {
+                    "price": "1,817",
+                    "percent": "(23% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/d/a/494x544/daist-coffee-table-in-exotic-teak-finish-by-a-globia-creations-daist-coffee-table-in-exotic-teak-fin-wspcms.jpg",
+                "category": "centreTable",
+                "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+                "shipping": "ship in 1 day"
+            },
+            {
+                "id": 2,
+                "productId": "centreTableOffer2",
+                "title": "Orca Coffee Table in Black & Cloud Ash Colour",
+                "brand": "By Crystal Furnitech",
+                "price": {
+                    "sell": "2,634",
+                    "mrp": "4,299"
+                },
+                "discount": {
+                    "price": "1,665",
+                    "percent": "(39 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/o/r/494x544/orca-coffee-table-in-black---cloud-ash-colour-orca-coffee-table-in-black---cloud-ash-colour-vp8f8b.jpg",
+                "category": "centreTable",
+                "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+                "shipping": "ship in 1 day"
+            },
+            {
+                "id": 3,
+                "productId": "centreTableOffer3",
+                "title": "Eco Coffee Table In Frosty White Finish,",
+                "brand": "By A GLOBIA CREATIONS",
+                "price": {
+                    "sell": "5,784",
+                    "mrp": "7,481"
+                },
+                "discount": {
+                    "price": "1,697",
+                    "percent": "(23 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/e/c/494x544/eco-coffee-table-in-frosty-white-finish-by-a-globia-creations-eco-coffee-table-in-frosty-white-finis-qphuow.jpg",
+                "category": "centreTable",
+                "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+                "shipping": "ship in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "centreTableOffer4",
+                "title": "Kayla Large Coffee Table in Wenge Finish",
+                "brand": "Crystal Furnitech",
+                "price": {
+                    "sell": "4,984",
+                    "mrp": "6,703"
+                },
+                "discount": {
+                    "price": "1,719",
+                    "percent": "(26% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/k/a/494x544/kayla-large-coffee-table-in-wenge-finish-kayla-large-coffee-table-in-wenge-finish-odrvut.jpg",
+                "category": "centreTable",
+                "extraoffer": "Earn 96 Extra Pepperfry Credits (Worth ₹96)",
+                "shipping": "ship in 1 day"
+            }
+        ],
+        "recliners": [
+            {
+                "id": 1,
+                "productId": "reclinerOffer1",
+                "title": "Lixo Leatherette Manual 1 Seater Recliner In Beige Colour",
+                "brand": "Neudot",
+                "price": {
+                    "sell": "15,134",
+                    "mrp": "29,500"
+                },
+                "discount": {
+                    "price": "14,366",
+                    "percent": "(49% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lixo-1-seater-fabric-manual-recliner-in-beige-colour-by-neudot-lixo-1-seater-fabric-manual-recliner--jvzasj.jpg",
+                "category": "recliner",
+                "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 2,
+                "productId": "reclinerOffer2",
+                "title": "Kingston Fabric 1 Seater Manual Recliner In Yale Blue Colour",
+                "brand": "Athena Crafts",
+                "price": {
+                    "sell": "22,245",
+                    "mrp": "34,699"
+                },
+                "discount": {
+                    "price": "12,454 ",
+                    "percent": "(36% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kingston-1502-1-seater-manual-recliner-in-yale-blue-colour-kingston-1502-1-seater-manual-recliner-in-7uoq3x.jpg",
+                "category": "recliner",
+                "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 3,
+                "productId": "reclinerOffer3",
+                "title": "Dylan 1 Seater Manual Recliner in Grey Colour",
+                "brand": "Durian",
+                "price": {
+                    "sell": "22,640 ",
+                    "mrp": "56,600"
+                },
+                "discount": {
+                    "price": "33,960",
+                    "percent": "(60% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/d/y/494x544/dylan-1-seater-manual-recliner-in-grey-colour-dylan-1-seater-manual-recliner-in-grey-colour-35tvyi.jpg",
+                "category": "recliner",
+                "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "reclinerOffer4",
+                "title": "Helios Fabric Manual 1 Seater Recliner In Beige Colour",
+                "brand": "Little Nap Designs",
+                "price": {
+                    "sell": "21,803",
+                    "mrp": "27,132"
+                },
+                "discount": {
+                    "price": "5,329",
+                    "percent": "(20% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/h/e/494x544/helios-single-seater-manual-recliner-in-beige-colour-by-little-nap-helios-single-seater-manual-recli-atf2vc.jpg",
+                "category": "recliner",
+                "extraoffer": "Earn 1,038 Extra Pepperfry Credits (Worth ₹1,038)",
+                "shipping": "Express Shipping in 2 days"
+            }
+        ],
+        "sectionalSofas": [
+            {
+                "id": 1,
+                "productId": "sectionSofaOffer1",
+                "title": "Bae Fabric LHS Sectional Sofa in Stone Grey Colour",
+                "brand": "By Sleepyhead",
+                "price": {
+                    "sell": "24,205",
+                    "mrp": "32,499"
+                },
+                "discount": {
+                    "price": "8,294 ",
+                    "percent": "(26 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/bae-4-seater-interchangeable-sectional-sofa-in-stone-grey-colour-by-sleepyhead-bae-4-seater-intercha-1lryqi.jpg",
+                "category": "sectionSofa",
+                "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 2,
+                "productId": "sectionSofaOffer2",
+                "title": "Stella Fabric RHS Sectional Sofa in Grey Colour",
+                "brand": "By ARRA",
+                "price": {
+                    "sell": "32,796",
+                    "mrp": "63,700"
+                },
+                "discount": {
+                    "price": "30,904 ",
+                    "percent": "(49 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/s/t/494x544/stella-rhs-sectional-sofa-in-grey-colour-by-arra-stella-rhs-sectional-sofa-in-grey-colour-by-arra-rr3oj3.jpg",
+                "category": "sectionSofa",
+                "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 3,
+                "productId": "sectionSofaOffer3",
+                "title": "Duke Fabric LHS Sectional Sofa(3 + Lounger) In Grey Colour,",
+                "brand": "By Trevi Furniture",
+                "price": {
+                    "sell": "30,281",
+                    "mrp": "54,599"
+                },
+                "discount": {
+                    "price": "24,318 ",
+                    "percent": "(45 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/d/u/494x544/duke-fabric-rhs-sectional-sofa-3---lounger--in-grey-colour-duke-fabric-rhs-sectional-sofa-3---lounge-lznrde.jpg",
+                "category": "sectionSofa",
+                "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "sectionSofaOffer4",
+                "title": "Lima Velvet RHS Sectional Sofa in Navy Blue Colour",
+                "brand": "By Adorn Homez",
+                "price": {
+                    "sell": "30,253",
+                    "mrp": "54,587"
+                },
+                "discount": {
+                    "price": "24,334 ",
+                    "percent": "(45 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/l/i/494x544/lima-l-shape-sofa-sectional-rhs-in-navy-blue-colour-by-adorn-homez-lima-l-shape-sofa-sectional-rhs-i-kmsylx.jpg",
+                "category": "sectionSofa",
+                "extraoffer": "Earn 1,822 Extra Pepperfry Credits (Worth ₹1,822)",
+                "shipping": "Express Shipping in 1 day"
+            }
+        ],
+        "wardrobes": [
+            {
+                "id": 1,
+                "productId": "wardrobeOffer1",
+                "title": "Ronald Meg 2 Door Wardrobe in Leon Teak Finish,",
+                "brand": "By Neudot",
+                "price": {
+                    "sell": "13,110",
+                    "mrp": "26,598"
+                },
+                "discount": {
+                    "price": "13,488 ",
+                    "percent": "(51 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/r/o/494x544/ronald-meg-2-door-wardrobe-in-leon-teak-finish-ronald-meg-2-door-wardrobe-in-leon-teak-finish-w2zvxd.jpg",
+                "category": "wardrobe",
+                "extraoffer": "Earn 595 Extra Pepperfry Credits (Worth ₹595)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 2,
+                "productId": "wardrobeOffer2",
+                "title": "Fiona 1 Door Wardrobe in Frosty White Finish,",
+                "brand": "By A GLOBIA CREATIONS",
+                "price": {
+                    "sell": "12,161",
+                    "mrp": "21,624"
+                },
+                "discount": {
+                    "price": "9,463",
+                    "percent": "(44 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/f/i/494x544/fiona-engineered-wood-1-door-wardrobe--in-frosty-white-finish-by-a-globia-creations-fiona-engineered-zsipbu.jpg",
+                "category": "wardrobe",
+                "extraoffer": "Earn 595 Extra Pepperfry Credits (Worth ₹595)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 3,
+                "productId": "wardrobeOffer3",
+                "title": "Tesla 1 Door Wardrobe in Leon Teak Finish,",
+                "brand": "By Neudot",
+                "price": {
+                    "sell": "9,666",
+                    "mrp": "17,220"
+                },
+                "discount": {
+                    "price": "7,554 ",
+                    "percent": "(44 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/t/e/494x544/tesla-bookshelf-in-leon-teak-finish-by-neudot-tesla-bookshelf-in-leon-teak-finish-by-neudot-5gwv19.jpg",
+                "category": "wardrobe",
+                "extraoffer": "Earn 595 Extra Pepperfry Credits (Worth ₹595)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "wardrobeOffer4",
+                "title": "Fiona 1 Door Wardrobe in Choco Walnut Finish,",
+                "brand": "By A GLOBIA CREATIONS",
+                "price": {
+                    "sell": "12,161",
+                    "mrp": "21,624"
+                },
+                "discount": {
+                    "price": "9,463 ",
+                    "percent": "(44 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/f/i/494x544/fiona-engineered-wood-1-door-wardrobe--in-choco-walnut-finish-by-a-globia-creations-fiona-engineered-tfxtcd.jpg",
+                "category": "wardrobe",
+                "extraoffer": "Earn 595 Extra Pepperfry Credits (Worth ₹595)",
+                "shipping": "Express Shipping in 1 day"
+            }
+        ],
+        "cabinetsAndSideboards": [
+            {
+                "id": 1,
+                "productId": "cabinateSideboardOffer1",
+                "title": "Eos Cabinet and Sideboard in Dark Walnut & Virgin Oak Finish,",
+                "brand": "By Crystal Furnitech",
+                "price": {
+                    "sell": "8,608",
+                    "mrp": "14,932"
+                },
+                "discount": {
+                    "price": "6,324",
+                    "percent": "(42 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/e/o/494x544/eos-cabinet-and-sideboard-in-dark-walnut---virgin-oak-finish-eos-cabinet-and-sideboard-in-dark-walnu-ijqnni.jpg",
+                "category": "cabinate and sideboard",
+                "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+                "shipping": "Ship in 2 days"
+            },
+            {
+                "id": 2,
+                "productId": "cabinateSideboardOffer2",
+                "title": "Magnus Sideboard in Frosty White Finish,",
+                "brand": "By Woodbuzz",
+                "price": {
+                    "sell": "14,999",
+                    "mrp": "22,900"
+                },
+                "discount": {
+                    "price": "7,901 ",
+                    "percent": "(35 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/magnus-side-crockery-unit-in-frosty-white-colour-by-woodbuzz-magnus-side-crockery-unit-in-frosty-whi-lfus1e.jpg",
+                "category": "cabinate and sideboard",
+                "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+                "shipping": "ship in 1 day"
+            },
+            {
+                "id": 3,
+                "productId": "cabinateSideboardOffer3",
+                "title": "Naia Cabinet in Columbia Walnut Finish",
+                "brand": "By Mintwud from Pepperfry",
+                "price": {
+                    "sell": "3,299",
+                    "mrp": "4,299"
+                },
+                "discount": {
+                    "price": "1,000 ",
+                    "percent": "(23 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/n/a/494x544/naia-cabinet-in-columbia-walnut-finish-naia-cabinet-in-columbia-walnut-finish-drauga.jpg",
+                "category": "cabinate and sideboard",
+                "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+                "shipping": "ship in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "cabinateSideboardOffer4",
+                "title": "Helsinki Cabinet in Intel Beige Finish,",
+                "brand": "By Kawachi",
+                "price": {
+                    "sell": "12,000",
+                    "mrp": "6,999"
+                },
+                "discount": {
+                    "price": "5,001 ",
+                    "percent": "(42 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/h/e/494x544/helsinki-corner-display-cabinet-in-intel-beige-colour-by-kawachi-helsinki-corner-display-cabinet-in--6xsmww.jpg",
+                "category": "cabinate and sideboard",
+                "extraoffer": "Earn 975 Extra Pepperfry Credits (Worth ₹975)",
+                "shipping": "Ship in 2 days"
+            }
+        ],
+        "officeFurniture": [
+            {
+                "id": 1,
+                "productId": "officeFurnitureOffer1",
+                "title": " High Leatherette Executive Chair With Audjustable Armrest in Tan Brown Colour",
+                "brand": "Furniturstation",
+                "price": {
+                    "sell": "10,387",
+                    "mrp": "19,999"
+                },
+                "discount": {
+                    "price": "9,612",
+                    "percent": "(48% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/h/i/494x544/high-back-executive-office-chair-in-brown-colour-by-furniturstation-high-back-executive-office-chair-q8go7l.jpg",
+                "category": "Office Furniture",
+                "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+                "shipping": "Express Shipping in 2 days"
+            },
+            {
+                "id": 2,
+                "productId": "officeFurnitureOffer2",
+                "title": "Vienna Leatherette Executive Chair in Brown Colour",
+                "brand": "Green Soul",
+                "price": {
+                    "sell": "7,007",
+                    "mrp": "15,430"
+                },
+                "discount": {
+                    "price": "8,423",
+                    "percent": "(55% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vienna-leatherette-executive-chair-in-brown-colour-vienna-leatherette-executive-chair-in-brown-colou-wdbyzg.jpg",
+                "category": "Office Furniture",
+                "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 3,
+                "productId": "officeFurnitureOffer3",
+                "title": "Fortuna Leatherette Executive Chair In Brown Colour",
+                "brand": "Ettorez",
+                "price": {
+                    "sell": "29,499",
+                    "mrp": " ₹40,099"
+                },
+                "discount": {
+                    "price": "10,600",
+                    "percent": "(26% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/f/o/494x544/fortuna-leatherette-executive-chair-in-brown-colour-fortuna-leatherette-executive-chair-in-brown-col-fcs0bx.jpg",
+                "category": "Office Furniture",
+                "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+                "shipping": "Express Shipping in 2 days"
+            },
+            {
+                "id": 4,
+                "productId": "officeFurnitureOffer4",
+                "title": "Vienna High Back Leatherette Executive Chair in Black Colour",
+                "brand": "Green Soul",
+                "price": {
+                    "sell": "7,670",
+                    "mrp": "16,725"
+                },
+                "discount": {
+                    "price": "9,055",
+                    "percent": "(54% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/v/i/494x544/vienna-high-back-leatherette-executive-chair-in-black-colour-vienna-high-back-leatherette-executive--udwt8n.jpg",
+                "category": "Office Furniture",
+                "extraoffer": "Earn 120 Extra Pepperfry Credits (Worth ₹120)",
+                "shipping": "Express Shipping in 1 day"
+            }
+        ],
+        "shoeRacks": [
+            {
+                "id": 1,
+                "productId": "shoerackOffer1",
+                "title": "Footsie Shoe Rack with Seating in Dark Walnut Finish",
+                "brand": "By Sleepyhead",
+                "price": {
+                    "sell": "12,641",
+                    "mrp": "16,799"
+                },
+                "discount": {
+                    "price": "4,158 ",
+                    "percent": "(25 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/f/o/494x544/footsie-combo-shoe-rack-in-dark-walnut-finish-by-sleepyhead-footsie-combo-shoe-rack-in-dark-walnut-f-s5uzmw.jpg",
+                "category": "shoerack",
+                "extraoffer": "Earn 325 Extra Pepperfry Credits (Worth ₹325)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 2,
+                "productId": "shoerackOffer2",
+                "title": "Leo Shoe Cabinet in Wenge Finish",
+                "brand": "By Fine Group",
+                "price": {
+                    "sell": "7,781",
+                    "mrp": "11,250"
+                },
+                "discount": {
+                    "price": "3,469 ",
+                    "percent": "(31 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/l/e/494x544/leo-shoerack-in-wenge-color-by-fine-group-leo-shoerack-in-wenge-color-by-fine-group-6g5vnw.jpg",
+                "category": "shoerack",
+                "extraoffer": "Earn 325 Extra Pepperfry Credits (Worth ₹325)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 3,
+                "productId": "shoerackOffer3",
+                "title": "Ardor 2 Door Shoe Cabinet in Walnut White Finish",
+                "brand": "Nilkamal",
+                "price": {
+                    "sell": "7,425",
+                    "mrp": "16,900"
+                },
+                "discount": {
+                    "price": "9,475",
+                    "percent": "(56% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/a/r/494x544/ardor-shoe-cabinet-in-walnut--white-finish-ardor-shoe-cabinet-in-walnut--white-finish-jyag1e.jpg",
+                "category": "shoerack",
+                "extraoffer": "Earn 325 Extra Pepperfry Credits (Worth ₹325)",
+                "shipping": "Express Shipping in 1 day"
+            },
+            {
+                "id": 4,
+                "productId": "shoerackOffer4",
+                "title": "Astro Shoe Cabinet in Cold White Finish",
+                "brand": "Take Interio",
+                "price": {
+                    "sell": "10,779",
+                    "mrp": "14,699"
+                },
+                "discount": {
+                    "price": "3,920",
+                    "percent": "(27% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/a/s/494x544/astro-shoe-rack-in-cold-white-finish-astro-shoe-rack-in-cold-white-finish-xmbcrk.jpg",
+                "category": "shoerack",
+                "extraoffer": "Earn 325 Extra Pepperfry Credits (Worth ₹325)",
+                "shipping": "Express Shipping in 1 day"
+            }
+        ],
+        "barFurniture": [
+            {
+                "id": 1,
+                "productId": "barfurnitureOffer1",
+                "title": "Bliss Bar Cabinet in Dark Elm Finish",
+                "brand": "Crystal Furnitech",
+                "price": {
+                    "sell": "11,720",
+                    "mrp": "17,255"
+                },
+                "discount": {
+                    "price": "5,535",
+                    "percent": "(32% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/b/l/494x544/bliss-bar-cabinet-in-dark-elm-finish-by-crystal-furnitech-bliss-bar-cabinet-in-dark-elm-finish-by-cr-hth1pw.jpg",
+                "category": "Bar Furniture",
+                "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+                "shipping": "Ship in 2 days"
+            },
+            {
+                "id": 2,
+                "productId": "barfurnitureOffer2",
+                "title": " Indus Leatherette Bar Stool In Dark Gray Colour With Swivel",
+                "brand": "Furniturstation",
+                "price": {
+                    "sell": "5,487 ",
+                    "mrp": "10,999"
+                },
+                "discount": {
+                    "price": "5,512",
+                    "percent": "(50% off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/i/n/494x544/indus-leatherette-bar-stool-in-dark-gray-colour-with-swivel-indus-leatherette-bar-stool-in-dark-gray-2pbdl2.jpg",
+                "category": "Bar Furniture",
+                "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+                "shipping": "Ship in 2 days"
+            },
+            {
+                "id": 3,
+                "productId": "barfurnitureOffer3",
+                "title": "SuperNova Metal Bar Trolley In Gold Finish With Wood,",
+                "brand": "By Corsica Designs",
+                "price": {
+                    "sell": "7,499",
+                    "mrp": "8,999"
+                },
+                "discount": {
+                    "price": "1,500",
+                    "percent": " (17 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/s/u/494x544/supernova-metal-bar-trolley-in-gold-finish-with-wood-supernova-metal-bar-trolley-in-gold-finish-with-mckxsf.jpg",
+                "category": "Bar Furniture",
+                "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+                "shipping": "Ship in 2 days"
+            },
+            {
+                "id": 4,
+                "productId": "barfurnitureOffer4",
+                "title": "Ian Metal Bar Stool In Gold Colour,",
+                "brand": "By Bohemiana from Pepperfry",
+                "price": {
+                    "sell": "7,499",
+                    "mrp": "10,999"
+                },
+                "discount": {
+                    "price": "3,500 ",
+                    "percent": "(32 % off)"
+                },
+                "rating": "4.5",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/i/a/494x544/ian-metal-bar-stool-in-gold-colour-ian-metal-bar-stool-in-gold-colour-j9p7qd.jpg",
+                "category": "Bar Furniture",
+                "extraoffer": "Earn 188 Extra Pepperfry Credits (Worth ₹188)",
+                "shipping": "Ship in 2 days"
+            }
+        ]
+    },
     "bestSeller": [
         {
             "image": "https://ii1.pepperfry.com/media/catalog/product/m/a/494x544/marbito-queen-size-bed-in-white-finish-with-box-storage-marbito-queen-size-bed-in-white-finish-with--h1imyy.jpg",
@@ -93,12 +1030,11 @@
             "image": "https://ii1.pepperfry.com/media/catalog/product/b/o/494x544/bonito-velvet-3-seater-sofa-in-beige-colour-bonito-velvet-3-seater-sofa-in-beige-colour-7qljfz.jpg",
             "product": "Velvet 3 Seater Sofas",
             "pathname": "sofas/sofa3"
-
         },
         {
             "image": "https://ii1.pepperfry.com/media/catalog/product/w/a/494x544/warlick-solid-wood-desk-table-in-rustic-teak-finish-by-woodsworth-warlick-solid-wood-desk-table-in-r-n5asqr.jpg",
             "product": "Writing Tables",
-            "pathname":"studyTables/studyTable19"
+            "pathname": "studyTables/studyTable19"
         },
         {
             "image": "https://ii1.pepperfry.com/media/catalog/product/k/i/494x544/kiosk-coffee-table-in-frosty-white-colour-by-a-globia-creations-kiosk-coffee-table-in-frosty-white-c-rzgbhh.jpg",
@@ -645,7 +1581,7 @@
             "shipping": "Express Shipping in 1 day"
         }
     ],
-    "beds":[
+    "beds": [
         {
             "id": 1,
             "productId": "bed1",
@@ -721,7 +1657,6 @@
             "category": "beds",
             "extraoffer": "",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 5,
@@ -741,7 +1676,6 @@
             "category": "beds",
             "extraoffer": "Earn 426 Extra Pepperfry Credits (Worth ₹426)",
             "shipping": ""
-     
         },
         {
             "id": 6,
@@ -762,7 +1696,6 @@
             "extraoffer": "Earn 348 Extra Pepperfry Credits (Worth ₹348)",
             "shipping": "Express Shipping in 1 day"
         },
-
         {
             "id": 7,
             "productId": "bed7",
@@ -781,7 +1714,6 @@
             "category": "beds",
             "extraoffer": "Earn 660 Extra Pepperfry Credits (Worth ₹660)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 8,
@@ -802,7 +1734,6 @@
             "extraoffer": "",
             "shipping": "Express Shipping in 1 day"
         },
-
         {
             "id": 9,
             "productId": "bed9",
@@ -821,7 +1752,6 @@
             "category": "beds",
             "extraoffer": "Earn 330 Extra Pepperfry Credits (Worth ₹330)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 10,
@@ -841,7 +1771,6 @@
             "category": "beds",
             "extraoffer": "Earn 788 Extra Pepperfry Credits (Worth ₹788)",
             "shipping": "Express Shipping in 1 day"
-          
         },
         {
             "id": 11,
@@ -861,7 +1790,6 @@
             "category": "beds",
             "extraoffer": "",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 12,
@@ -1720,7 +2648,6 @@
             "extraoffer": "Earn 1,200 Extra Pepperfry Credits (Worth ₹1,200)",
             "shipping": "Express Shipping in 1 day"
         }
-        
     ],
     "studyTables": [
         {
@@ -2255,7 +3182,6 @@
             "extraoffer": "Earn 713 Extra Pepperfry Credits (Worth ₹713)",
             "shipping": "Express Shipping in 1 day"
         }
-        
     ],
     "centreTables": [
         {
@@ -2352,7 +3278,6 @@
             "category": "centreTable",
             "extraoffer": "Earn 73 Extra Pepperfry Credits (Worth ₹73)",
             "shipping": "Express Shipping in 1 day"
-           
         },
         {
             "id": 6,
@@ -2791,7 +3716,6 @@
             "extraoffer": "Earn 413 Extra Pepperfry Credits (Worth ₹413)",
             "shipping": ""
         }
-        
     ],
     "recliners": [
         {
@@ -2888,7 +3812,6 @@
             "category": "recliner",
             "extraoffer": "Earn 838 Extra Pepperfry Credits (Worth ₹838)",
             "shipping": "Express Shipping in 1 day"
-        
         },
         {
             "id": 6,
@@ -2908,7 +3831,6 @@
             "category": "recliner",
             "extraoffer": "Earn 900 Extra Pepperfry Credits (Worth ₹900)",
             "shipping": ""
-     
         },
         {
             "id": 7,
@@ -2928,7 +3850,6 @@
             "category": "recliner",
             "extraoffer": "Earn 494 Extra Pepperfry Credits (Worth ₹494)",
             "shipping": "Ships in 3 days"
-    
         },
         {
             "id": 8,
@@ -2948,7 +3869,6 @@
             "category": "recliner",
             "extraoffer": "Earn 750 Extra Pepperfry Credits (Worth ₹750)",
             "shipping": "Express Shipping in 1 day"
-    
         },
         {
             "id": 9,
@@ -2968,7 +3888,6 @@
             "category": "recliner",
             "extraoffer": "Earn 838 Extra Pepperfry Credits (Worth ₹838)",
             "shipping": ""
-    
         },
         {
             "id": 10,
@@ -3331,7 +4250,6 @@
             "extraoffer": "Earn 626 Extra Pepperfry Credits (Worth ₹626)",
             "shipping": "Express Shipping in 1 day"
         }
-        
     ],
     "sectionalSofas": [
         {
@@ -3523,7 +4441,6 @@
             "category": "sectionSofa",
             "extraoffer": "Earn 1,514 Extra Pepperfry Credits (Worth ₹1,514)",
             "shipping": ""
-            
         },
         {
             "id": 11,
@@ -3867,7 +4784,6 @@
             "extraoffer": "Earn 1,016 Extra Pepperfry Credits (Worth ₹1,016)",
             "shipping": ""
         }
-        
     ],
     "wardrobes": [
         {
@@ -4021,7 +4937,6 @@
             "category": "wardrobe",
             "extraoffer": "Earn 443 Extra Pepperfry Credits (Worth ₹443)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 9,
@@ -4345,7 +5260,6 @@
             "category": "wardrobe",
             "extraoffer": "Earn 694 Extra Pepperfry Credits (Worth ₹694)",
             "shipping": "Express Shipping in 1 day"
-            
         },
         {
             "id": 26,
@@ -4404,7 +5318,6 @@
             "extraoffer": "Earn 195 Extra Pepperfry Credits (Worth ₹195)",
             "shipping": ""
         }
-        
     ],
     "cabinetsAndSideboards": [
         {
@@ -4596,9 +5509,6 @@
             "category": "cabinate and sideboard",
             "extraoffer": "Earn 613 Extra Pepperfry Credits (Worth ₹613)",
             "shipping": "Express Shipping in 1 day"
-    
-    
-    
         },
         {
             "id": 11,
@@ -4942,7 +5852,6 @@
             "extraoffer": "Earn 625 Extra Pepperfry Credits (Worth ₹625)",
             "shipping": "Express Shipping in 1 day"
         }
-        
     ],
     "officeFurniture": [
         {
@@ -5477,9 +6386,7 @@
             "extraoffer": "Earn 80 Extra Pepperfry Credits (Worth ₹80)",
             "shipping": "Express Shipping in 1 day"
         }
-        
     ],
-    
     "shoeRacks": [
         {
             "id": 1,
@@ -6013,7 +6920,6 @@
             "extraoffer": "Earn 246 Extra Pepperfry Credits (Worth ₹246)",
             "shipping": ""
         }
-        
     ],
     "barFurniture": [
         {
@@ -6548,6 +7454,5 @@
             "extraoffer": "Earn 163 Extra Pepperfry Credits (Worth ₹163)",
             "shipping": ""
         }
-        
     ]
 }
