@@ -78,7 +78,18 @@
         }
     ],
     "furnitureTopBrands": {
-        "sofas": {"allBrand": "https://ii1.pepperfry.com/assets/73e6b7aa-70c3-426c-9fed-06bbe82068dc.jpg"} 
+        "sofas": {"allBrand": "https://ii1.pepperfry.com/assets/40b822e3-bea8-40d3-acd6-0fa14904970b.jpg"},
+        "beds": {"allBrand":"https://ii1.pepperfry.com/assets/c20e90d7-566f-4827-8805-f5d1d2debac7.jpg"},
+        "diningSets": {"allBrand": "https://ii1.pepperfry.com/assets/90030798-b11d-492d-a548-8d22432db825.jpg"},
+        "studyTables": {"allBrand": "https://ii1.pepperfry.com/assets/49c138fd-728a-4796-9c5f-5d83b0c4d513.jpg" },
+        "centreTables": {"allBrand": "https://ii1.pepperfry.com/assets/f70d44a1-3341-4c57-b73d-dda5ded27418.jpg"},
+        "recliners": {"allBrand": "https://ii1.pepperfry.com/assets/7ca8b796-6372-45c9-9ade-928966ba5d39.png"},
+        "sectionalSofas": {"allBrand": "https://ii1.pepperfry.com/assets/54ee11da-7d4c-4d31-8f77-fb362a2b1add.jpg"},
+        "wardrobes": {"allBrand": "https://ii1.pepperfry.com/assets/615ebc6a-3913-49e5-b91f-fba6c15b9564.jpg"},
+        "cabinetsAndSideboards": {"allBrand": "https://ii1.pepperfry.com/assets/17815cbd-5a72-4150-a843-d39b5b94d5bd.jpg"},
+        "officeFurniture": {"allBrand": "https://ii1.pepperfry.com/assets/82a74561-b23c-4d90-9ce1-dd89e7875754.jpg"},
+        "shoeRacks": {"allBrand": "https://ii1.pepperfry.com/assets/fbe2ca46-2303-4792-97b6-b35e307774e0.jpg"},
+        "barFurniture": {"allBrand": "https://ii1.pepperfry.com/assets/73e6b7aa-70c3-426c-9fed-06bbe82068dc.jpg"} 
     },
     "furnitureOffer": {
         "sofas": [
